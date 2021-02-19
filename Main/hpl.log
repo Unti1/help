@@ -1,0 +1,1650 @@
+Version 1.4 
+
+-------- THE HPL ENGINE LOG ------------
+Creating Engine Modules
+--------------------------------------------------------
+ Creating graphics module
+ Creating system module
+ Creating resource module
+ Creating input module
+ Creating sound module
+ Creating physics module
+ Creating ai module
+ Creating gui module
+ Creating generate module
+ Creating haptic module
+ Creating scene module
+--------------------------------------------------------
+
+Initializing Resources Module
+--------------------------------------------------------
+ Creating loader handlers 
+ Creating resource managers
+ Adding loaders to handlers 
+--------------------------------------------------------
+
+Initializing Graphics Module
+--------------------------------------------------------
+Init lowlevel graphics: 1920x1080 disp:0 bpp:32 fs:1 ms:0 gpufmt:2 cap:'Amnesia - The Dark Descent - Loading...' pos:(-1x-1)
+ Setting video mode: 1920 x 1080 - 32 bpp
+ Init Glew...OK
+ Setting up OpenGL
+  Vendor: ATI Technologies Inc.
+  Renderer: AMD Radeon(TM) Vega 8 Graphics 
+  Version: 4.6.14736 Compatibility Profile Context 20.9.2 27.20.12031.1000
+  Max texture image units: 32
+  Max texture coord units: 16
+  Max user clip planes: 8
+  Two sided stencil: 1
+  Vertex Buffer Object: 1
+  Anisotropic filtering: 1
+  Max Anisotropic degree: 16
+  Multisampling: 1
+  Texture compression: 1
+  Texture compression S3TC: 1
+  Auto generate MipMaps: 1
+  Render to texture: 1
+  Max draw buffers: 8
+  Max color render targets: 8
+  Packed depth-stencil: 1
+  Texture float: 1
+  GLSL Version: 4.60
+  ShaderModel 2: 1
+  ShaderModel 3: 0
+  ShaderModel 4: 1
+  OGL ATIFragmentShader: 1
+Setting up G-Bugger: type: 0 texturenum: 3
+ Adding engine materials
+ Initializing DevIL
+  Vendor String: Abysmal Software
+  Version String: Developer's Image Library (DevIL) 1.7.8
+  Version Number: 178
+ Adding engine post effects
+--------------------------------------------------------
+
+Initializing Sound Module
+--------------------------------------------------------
+ Initializing OpenAL
+  Available OpenAL devices:
+   0. Generic Software on Динамики (Realtek(R) Audio)(OpenAL default)
+   1. Generic Software on Динамики (Steam Streaming Speakers)
+   2. Generic Software on Динамики (Steam Streaming Microphone)
+   3. Generic Software on Speakers (NVIDIA RTX Voice)
+   4. Generic Software on CABLE Input (VB-Audio Virtual Cable)
+  Trying to open device 'Generic Software on Динамики (Realtek(R) Audio)'... Success!
+  Number of mono sources: 32
+  Streaming setup: 4 Buffers x 262144 bytes each
+--------------------------------------------------------
+
+Initializing Game Module
+--------------------------------------------------------
+ Adding engine updates
+ Initializing script functions
+--------------------------------------------------------
+
+User Initialization
+--------------------------------------------------------
+--------------------------------------------------------
+
+Game Running
+--------------------------------------------------------
+ -------- Loading map 'menu_bg.map' ---------
+    Cache Loading: 1037 ms
+  Entities: 183 ms
+  Compilation: 2 ms
+  Total: 1241 ms
+  Meshes created: 26
+  Bodies created: 5
+ -------- Loading complete ---------
+ERROR: Sampler aGoboMap does not exist, could not bind it to unit 5
+ Setting profile: '_____' Path: 'C:\Users\pepega\Documents/Amnesia/Main/_____/'
+-------- BEGIN LOAD FROM C:\Users\pepega\Documents/Amnesia/Main/_____/AutoSave_Archives_2021_2_10_19_38_40_0.sav ---------
+LOADING SAVE GAME!
+ -------- Loading map '03_archives.map' ---------
+    Cache Loading: 2288 ms
+  Entities: 2070 ms
+  Compilation: 187 ms
+  Total: 5102 ms
+  Meshes created: 300
+  Bodies created: 92
+ -------- Loading complete ---------
+WARNING: Could not find player start node ''
+ERROR: StartPos '' does not exist!
+ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
+ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
+-------- END LOAD ---------
+ERROR: Sampler aGoboMap does not exist, could not bind it to unit 5
+ERROR: Sampler aGoboMap does not exist, could not bind it to unit 5
+ERROR: Sampler aGoboMap does not exist, could not bind it to unit 5
+ERROR: Could not find sound entity 'SoundWind'
+ERROR: Couldn't create SoundEntity 'react_scare6.snt'
+ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
+ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
+ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
+ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
+ERROR: Could not find sound entity 'SoundSecretBook_3'
+ERROR: Could not find sound entity 'SoundSecretBook_1'
+ERROR: Could not find sound entity 'SoundSecretBook_2'
+ERROR: Couldn't create SoundEntity 'react_scare6.snt'
+ -------- Loading map '02_entrance_hall.map' ---------
+    Cache Loading: 1952 ms
+  Entities: 1928 ms
+  Compilation: 49 ms
+  Total: 4025 ms
+  Meshes created: 123
+  Bodies created: 43
+ -------- Loading complete ---------
+-------- BEGIN SAVE TO: C:\Users\pepega\Documents/Amnesia/Main/_____/AutoSave_EntranceHall_2021_2_10_19_53_47_0.sav ---------
+WARNING: particle system 0 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_short_3 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_short_3 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_short_3 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_short_3 does not exist anymore!
+-------- END SAVE ---------
+ -------- Loading map '05_wine_cellar.map' ---------
+    Cache Loading: 889 ms
+  Entities: 3185 ms
+  Compilation: 36 ms
+  Total: 4601 ms
+  Meshes created: 221
+  Bodies created: 45
+ -------- Loading complete ---------
+-------- BEGIN SAVE TO: C:\Users\pepega\Documents/Amnesia/Main/_____/AutoSave_WineCellar_2021_2_10_19_55_7_0.sav ---------
+WARNING: particle system 0 in torch_static01_4 does not exist anymore!
+WARNING: particle system 0 in candlestick01_2 does not exist anymore!
+WARNING: particle system 0 in candlestick01_3 does not exist anymore!
+WARNING: particle system 0 in candlestick01_4 does not exist anymore!
+WARNING: particle system 0 in candlestick01_5 does not exist anymore!
+WARNING: particle system 0 in torch_static01_7 does not exist anymore!
+WARNING: particle system 0 in torch_static01_8 does not exist anymore!
+WARNING: particle system 0 in torch_static01_9 does not exist anymore!
+WARNING: particle system 0 in torch_static01_10 does not exist anymore!
+WARNING: particle system 0 in torch_static01_11 does not exist anymore!
+WARNING: particle system 0 in candlestick02_1 does not exist anymore!
+WARNING: particle system 0 in torch_static01_3 does not exist anymore!
+WARNING: particle system 0 in candlestick02_3 does not exist anymore!
+-------- END SAVE ---------
+WARNING: Entity 'AreaEndBlood_0' does not exist!
+ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
+ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
+ -------- Loading map '02_entrance_hall.map' ---------
+    Cache Loading: 1528 ms
+  Entities: 2297 ms
+  Compilation: 53 ms
+  Total: 3974 ms
+  Meshes created: 123
+  Bodies created: 43
+ -------- Loading complete ---------
+-------- BEGIN SAVE TO: C:\Users\pepega\Documents/Amnesia/Main/_____/AutoSave_EntranceHall_2021_2_10_20_7_1_0.sav ---------
+WARNING: particle system 0 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_short_3 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_short_3 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_short_3 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_short_3 does not exist anymore!
+-------- END SAVE ---------
+ -------- Loading map '04_wine_cellar_lab.map' ---------
+    Cache Loading: 944 ms
+ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
+ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
+ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
+ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
+  Entities: 1471 ms
+  Compilation: 27 ms
+  Total: 2804 ms
+  Meshes created: 210
+  Bodies created: 28
+ -------- Loading complete ---------
+-------- BEGIN SAVE TO: C:\Users\pepega\Documents/Amnesia/Main/_____/AutoSave_WineCellarLab_2021_2_10_20_7_19_0.sav ---------
+WARNING: particle system 0 in torch_static01_12 does not exist anymore!
+WARNING: particle system 0 in candlestick_tri_2 does not exist anymore!
+WARNING: particle system 1 in candlestick_tri_2 does not exist anymore!
+WARNING: particle system 2 in candlestick_tri_2 does not exist anymore!
+-------- END SAVE ---------
+Start Rendering Frustum: 208751020, World: '04_wine_cellar_lab.map' TargetBuffer 0
+-----------------  START -------------------------
+ Setting projection matrix: 208751480  [0.803333 : 0.000000 : 0.000000 : 0.000000] [0.000000 : 1.428148 : 0.000000 : 0.000000] [0.000000 : 0.000000 : -1.000050 : -0.020000] [0.000000 : 0.000000 : -1.000000 : 0.000000].
+----------
+ -- Start Rendering GBufferSetup:
+----------
+ Setting FrameBuffer 60422120 'Deferred_GBuffer_Main', pos: 0,0 size: 1920x1080
+ Clearing entire frame buffer
+----------
+----------
+ -- Start Rendering CHC_Culling:
+----------
+  Setting depth write active: 0
+  Setting blend mode: None
+  Setting alpha mode: Solid
+  Setting channel mode: None
+CHC: Near plane inside node 377767056, pushing children and rendering nodes!
+CHC: Near plane inside node 377767784, pushing children and rendering nodes!
+CHC: Near plane inside node 377766328, pushing children and rendering nodes!
+  Setting depth write active: 1
+  Setting alpha limit: 0.500000
+  Setting texture unit: 1, 82012880/'core_dissolve.tga'
+  Setting gpu program 227165160 : 'soliddiffuse_Z'
+  Setting model matrix: NULL
+  Setting vertex buffer: 533728496
+   Drawing vertex buffer
+  Setting vertex buffer: 533726104
+   Drawing vertex buffer
+  Setting vertex buffer: 533726520
+   Drawing vertex buffer
+CHC: Near plane inside node 223722764, pushing children and rendering nodes!
+CHC: Near plane inside node 215109944, pushing children and rendering nodes!
+CHC: Near plane inside node 215110232, pushing children and rendering nodes!
+CHC: Near plane inside node 377766432, pushing children and rendering nodes!
+CHC: Near plane inside node 215110664, pushing children and rendering nodes!
+CHC: Near plane inside node 215110952, pushing children and rendering nodes!
+CHC: Near plane inside node 215110376, pushing children and rendering nodes!
+CHC: Near plane inside node 215110808, pushing children and rendering nodes!
+CHC: Near plane inside node 377772048, pushing children and rendering nodes!
+CHC: Near plane inside node 377771632, pushing children and rendering nodes!
+CHC: Near plane inside node 377770384, pushing children and rendering nodes!
+CHC: Near plane inside node 377768824, pushing children and rendering nodes!
+  Setting vertex buffer: 533726624
+   Drawing vertex buffer
+CHC: Near plane inside node 377769448, pushing children and rendering nodes!
+CHC: Near plane inside node 377769552, pushing children and rendering nodes!
+  Setting vertex buffer: 533727456
+   Drawing vertex buffer
+  Setting vertex buffer: 533753248
+   Drawing vertex buffer
+  Setting vertex buffer: 533726728
+   Drawing vertex buffer
+  Setting alpha mode: Trans
+  Setting texture unit: 0, 473171944/'G:/Projects/3d/work/amnesia game/SVN/redist/static_objects/decals/pebbles01-04.dds'
+  Setting gpu program 293453488 : 'soliddiffuse_Z_UseAlphaMap'
+  Setting vertex buffer: 533753768
+   Drawing vertex buffer
+  Setting vertex buffer: 533725584
+   Drawing vertex buffer
+CHC: Near plane inside node 215108648, pushing children and rendering nodes!
+  Setting alpha mode: Solid
+  Setting texture unit: 0, 'NULL
+  Setting gpu program 227165160 : 'soliddiffuse_Z'
+  Setting model matrix: 375472036 / [-1.000000 : 0.000000 : 0.000003 : 15.497140] [0.000000 : 1.000000 : 0.000000 : -5.897520] [-0.000003 : 0.000000 : -1.000000 : 38.220722] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377776104
+   Drawing vertex buffer
+  Setting model matrix: 375469228 / [-1.000000 : 0.000000 : 0.000003 : 15.497140] [0.000000 : 1.000000 : 0.000000 : -5.897520] [-0.000003 : 0.000000 : -1.000000 : 38.220734] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377777248
+   Drawing vertex buffer
+  Setting model matrix: 375468292 / [-1.000000 : 0.000000 : 0.000003 : 13.603940] [0.000000 : 1.000000 : 0.000000 : -5.990050] [-0.000003 : 0.000000 : -1.000000 : 38.291607] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377776936
+   Drawing vertex buffer
+  Setting model matrix: 375257692 / [-0.343974 : 0.000000 : -0.938979 : 24.437000] [-0.000001 : 1.000000 : 0.000000 : -8.050001] [0.938979 : 0.000001 : -0.343974 : 32.893002] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 216278544
+   Drawing vertex buffer
+  Setting model matrix: 375444892 / [0.000003 : 0.000004 : -0.800000 : 23.217400] [-0.000000 : 0.800000 : 0.000004 : -6.792450] [0.800000 : -0.000000 : 0.000003 : 31.877701] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377764144
+   Drawing vertex buffer
+  Setting model matrix: 375460804 / [-0.000003 : 0.000000 : -1.000000 : 13.806058] [0.000000 : 1.000000 : 0.000000 : -7.988250] [1.000000 : 0.000000 : -0.000003 : 32.324909] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377772464
+   Drawing vertex buffer
+  Setting model matrix: 375463612 / [-0.000003 : 0.000000 : -1.000000 : 13.806058] [0.000000 : 1.000000 : 0.000000 : -7.988250] [1.000000 : 0.000000 : -0.000003 : 32.324909] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377777872
+   Drawing vertex buffer
+  Setting model matrix: 375450508 / [-0.000003 : 0.000000 : 0.800000 : 9.793850] [0.000000 : 0.800000 : 0.000000 : -6.157140] [-0.800000 : 0.000000 : -0.000003 : 28.429701] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377764144
+   Drawing vertex buffer
+CHC: Near plane inside node 215111528, pushing children and rendering nodes!
+CHC: Near plane inside node 215108792, pushing children and rendering nodes!
+CHC: Near plane inside node 215108504, pushing children and rendering nodes!
+CHC: Near plane inside node 215110520, pushing children and rendering nodes!
+CHC: Near plane inside node 215108936, pushing children and rendering nodes!
+CHC: Near plane inside node 215109080, pushing children and rendering nodes!
+  Setting model matrix: 375477652 / [-0.000003 : 0.000000 : -1.000000 : 13.806058] [0.000000 : 1.000000 : 0.000000 : -7.988250] [1.000000 : 0.000000 : -0.000003 : 32.324909] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377772256
+   Drawing vertex buffer
+  Setting model matrix: 375466420 / [-1.000000 : 0.000000 : 0.000003 : 14.885512] [0.000000 : 1.000000 : 0.000000 : -7.208390] [-0.000003 : 0.000000 : -1.000000 : 37.332809] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377777664
+   Drawing vertex buffer
+  Setting model matrix: 295867772 / [0.856500 : -0.233029 : 0.460549 : 22.209747] [0.139955 : 0.963706 : 0.227338 : -7.920478] [-0.496810 : -0.130259 : 0.858028 : 40.471497] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377765600
+   Drawing vertex buffer
+  Setting model matrix: 295854668 / [0.147851 : -0.988333 : -0.036582 : 19.993210] [-0.001216 : -0.037170 : 0.999308 : -7.897448] [-0.989009 : -0.147704 : -0.006698 : 40.796867] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+   Drawing vertex buffer
+  Setting model matrix: 295855604 / [-0.850614 : 0.218196 : 0.478379 : 22.752581] [0.182961 : 0.975800 : -0.119751 : -7.790076] [-0.492931 : -0.014337 : -0.869950 : 41.007030] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+   Drawing vertex buffer
+  Setting model matrix: 375223060 / [0.395804 : 0.493328 : 0.336816 : 15.428879] [0.505072 : -0.512218 : -0.000749 : -6.850377] [0.225037 : 0.281933 : -0.590724 : 31.034178] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377753848
+   Drawing vertex buffer
+  Setting model matrix: 375244588 / [0.336953 : 0.493328 : -0.395688 : 15.736743] [-0.000575 : -0.512218 : -0.505072 : -7.346335] [-0.590646 : 0.281933 : -0.225241 : 29.845373] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377754472
+   Drawing vertex buffer
+  Setting model matrix: 295891172 / [0.235582 : -0.508056 : 0.828481 : 22.627590] [-0.961827 : 0.000260 : 0.273659 : -7.882720] [-0.139250 : -0.861324 : -0.488600 : 30.174213] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 527059264
+   Drawing vertex buffer
+  Setting model matrix: 295826588 / [0.373696 : 0.531432 : 0.315602 : 16.272379] [0.533699 : -0.474057 : -0.001224 : -6.800443] [0.194723 : 0.279419 : -0.602324 : 30.183109] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377753848
+   Drawing vertex buffer
+  Setting model matrix: 295835012 / [0.315731 : 0.531432 : -0.373587 : 16.566799] [-0.001039 : -0.474057 : -0.533699 : -7.317142] [-0.602257 : 0.279419 : -0.194931 : 28.999744] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377754472
+   Drawing vertex buffer
+CHC: Testing query 472884840 on node: 215109224
+  Setting depth write active: 0
+  Setting gpu program 60423968 : 'DepthOnly'
+  Setting view matrix: [3.893, 0.000, 16.593, 8.344] [8.633, 7.449, -0.598, 4.400] [-29.305, 2.194, 2.028, -1.174] [0.000, 0.000, 0.000, 1.000]
+  Setting vertex buffer: 68329632
+   Drawing vertex buffer
+CHC: Testing query 298040896 on node: 377770592
+  Setting view matrix: [1.316, 0.000, 13.520, 7.834] [2.919, 9.464, -0.487, 2.729] [-9.908, 2.788, 1.653, -0.631] [0.000, 0.000, 0.000, 1.000]
+   Drawing vertex buffer
+CHC: Near plane inside node 377769760, pushing children and rendering nodes!
+CHC: Testing query 368876744 on node: 377770800
+  Setting view matrix: [2.560, 0.000, 20.584, 6.295] [5.677, 9.904, -0.741, 4.488] [-19.269, 2.918, 2.516, -11.363] [0.000, 0.000, 0.000, 1.000]
+   Drawing vertex buffer
+  Setting depth write active: 1
+  Setting gpu program 227165160 : 'soliddiffuse_Z'
+  Setting model matrix: NULL
+  Setting vertex buffer: 533737024
+   Drawing vertex buffer
+  Setting vertex buffer: 533737960
+   Drawing vertex buffer
+  Setting vertex buffer: 533737856
+   Drawing vertex buffer
+  Setting vertex buffer: 533733384
+   Drawing vertex buffer
+  Setting vertex buffer: 533734216
+   Drawing vertex buffer
+  Setting vertex buffer: 533734424
+   Drawing vertex buffer
+  Setting vertex buffer: 533734008
+   Drawing vertex buffer
+  Setting vertex buffer: 533731928
+   Drawing vertex buffer
+  Setting vertex buffer: 533732656
+   Drawing vertex buffer
+  Setting vertex buffer: 533732240
+   Drawing vertex buffer
+CHC: Testing query 214144392 on node: 377770072
+  Setting depth write active: 0
+  Setting gpu program 60423968 : 'DepthOnly'
+  Setting view matrix: [2.911, 0.000, 17.050, 3.809] [6.456, 0.000, -0.614, -0.882] [-21.914, 0.000, 2.084, -3.176] [0.000, 0.000, 0.000, 1.000]
+  Setting vertex buffer: 68329632
+   Drawing vertex buffer
+  Setting depth write active: 1
+  Setting gpu program 227165160 : 'soliddiffuse_Z'
+  Setting model matrix: NULL
+  Setting vertex buffer: 533732864
+   Drawing vertex buffer
+CHC: Near plane inside node 377770280, pushing children and rendering nodes!
+CHC: Testing query 298035040 on node: 377770488
+  Setting depth write active: 0
+  Setting gpu program 60423968 : 'DepthOnly'
+  Setting view matrix: [1.225, 0.000, 9.045, 9.236] [2.717, 8.155, -0.326, 3.929] [-9.222, 2.403, 1.106, -6.234] [0.000, 0.000, 0.000, 1.000]
+  Setting vertex buffer: 68329632
+   Drawing vertex buffer
+  Setting depth write active: 1
+  Setting alpha mode: Trans
+  Setting texture unit: 0, 473171944/'G:/Projects/3d/work/amnesia game/SVN/redist/static_objects/decals/pebbles01-04.dds'
+  Setting gpu program 293453488 : 'soliddiffuse_Z_UseAlphaMap'
+  Setting model matrix: NULL
+  Setting vertex buffer: 533728080
+   Drawing vertex buffer
+  Setting alpha mode: Solid
+  Setting texture unit: 0, 'NULL
+  Setting gpu program 227165160 : 'soliddiffuse_Z'
+  Setting vertex buffer: 533734944
+   Drawing vertex buffer
+CHC: Near plane inside node 377769864, pushing children and rendering nodes!
+CHC: Testing query 214143840 on node: 377769968
+  Setting depth write active: 0
+  Setting gpu program 60423968 : 'DepthOnly'
+  Setting view matrix: [0.953, 0.000, 9.651, 0.783] [2.113, 8.159, -0.348, 4.619] [-7.173, 2.404, 1.180, -8.571] [0.000, 0.000, 0.000, 1.000]
+  Setting vertex buffer: 68329632
+   Drawing vertex buffer
+CHC: Fetching query 472884840 on node: 215109224, samples: 590674
+CHC: Rendering objects in node 215109224
+CHC: Testing query 472884840 on node: 377770696
+  Setting view matrix: [0.902, 0.000, 7.982, 9.484] [1.999, 5.374, -0.287, 2.819] [-6.786, 1.583, 0.976, -10.817] [0.000, 0.000, 0.000, 1.000]
+   Drawing vertex buffer
+  Setting depth write active: 1
+  Setting alpha mode: Trans
+  Setting texture unit: 0, 532219392/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/pile_of_food_alpha.tga'
+  Setting gpu program 293453488 : 'soliddiffuse_Z_UseAlphaMap'
+  Setting model matrix: NULL
+  Setting vertex buffer: 533737128
+   Drawing vertex buffer
+  Setting vertex buffer: 533733280
+   Drawing vertex buffer
+CHC: Fetching query 298040896 on node: 377770592, samples: 801618
+CHC: Rendering objects in node 377770592
+CHC: Testing query 298040896 on node: 377770176
+  Setting depth write active: 0
+  Setting alpha mode: Solid
+  Setting gpu program 60423968 : 'DepthOnly'
+  Setting texture unit: 0, 'NULL
+  Setting view matrix: [0.840, 0.000, 9.479, 1.218] [1.863, 4.968, -0.341, 3.723] [-6.324, 1.464, 1.159, -13.111] [0.000, 0.000, 0.000, 1.000]
+  Setting vertex buffer: 68329632
+   Drawing vertex buffer
+  Setting depth write active: 1
+  Setting gpu program 227165160 : 'soliddiffuse_Z'
+  Setting model matrix: 375237100 / [0.956621 : 0.291334 : 0.000703 : 21.250000] [0.000701 : 0.000110 : -1.000000 : -7.750000] [-0.291334 : 0.956621 : -0.000099 : 26.500000] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 533741808
+   Drawing vertex buffer
+CHC: Fetching query 368876744 on node: 377770800, samples: 1952788
+CHC: Rendering objects in node 377770800
+CHC: Fetching query 214144392 on node: 377770072, samples: 844556
+CHC: Rendering objects in node 377770072
+CHC: Fetching query 298035040 on node: 377770488, samples: 233180
+CHC: Rendering objects in node 377770488
+CHC: Fetching query 214143840 on node: 377769968, samples: 647179
+CHC: Rendering objects in node 377769968
+CHC: Fetching query 472884840 on node: 377770696, samples: 128837
+CHC: Rendering objects in node 377770696
+CHC: Fetching query 298040896 on node: 377770176, samples: 188948
+CHC: Rendering objects in node 377770176
+----------
+  Creating occlusion object from source 296629696 with custom ID: 0 . VtxBuffer: 68329632 Matrix: 296630588 Depthtest: 1
+  Creating occlusion object from source 296629696 with custom ID: 1 . VtxBuffer: 68329632 Matrix: 296630588 Depthtest: 0
+----------
+ -- Start Rendering OcclusionObjects:
+----------
+  Setting depth write active: 0
+  Setting texture unit: 1, 'NULL
+  Setting gpu program NULL
+  Setting model matrix: 296630588 / [0.000001 : 0.000003 : -0.300000 : 22.704445] [-0.000000 : 0.600000 : 0.000002 : -5.771378] [0.400000 : -0.000000 : 0.000001 : 31.877703] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 68329632
+   Drawing vertex buffer
+  Setting depth func: Always
+   Drawing vertex buffer
+  Setting depth func: LessOrEqual
+  Setting channel mode: RGBA
+----------
+  Setting channel mode: None
+  Setting gpu program 60423968 : 'DepthOnly'
+  Setting view matrix: [-1.704, 6.024, 5.420, 8.854] [-3.778, -5.105, 6.051, 3.975] [12.823, -0.704, 2.503, 1.568] [0.000, 0.000, 0.000, 1.000]
+  Setting vertex buffer: 68343968
+   Drawing vertex buffer
+  Setting view matrix: [3.866, 0.000, -0.493, 2.496] [-0.139, 3.739, -1.093, 3.556] [0.473, 1.101, 3.709, -11.596] [0.000, 0.000, 0.000, 1.000]
+  Setting vertex buffer: 68343760
+   Drawing vertex buffer
+  Setting view matrix: [0.637, 0.000, 5.000, 4.955] [1.413, 4.835, -0.180, 4.667] [-4.796, 1.424, 0.611, -14.315] [0.000, 0.000, 0.000, 1.000]
+   Drawing vertex buffer
+---------------------------------
+------ RENDER LIST CONTENTS -----
+Trans Objects:
+ 'breathps' ViewspaceZ: 1.584604 LargeSurfacePlacement: 0 Mat: 'ps_area_fog.mat' RenderCount: 88734
+ 'ParticleSystem_4' ViewspaceZ: 0.978845 LargeSurfacePlacement: 0 Mat: 'ps_area_fog.mat' RenderCount: 88734
+ 'ParticleSystem_8' ViewspaceZ: -2.915594 LargeSurfacePlacement: 0 Mat: 'ps_area_fog.mat' RenderCount: 88734
+ 'ParticleSystem_7' ViewspaceZ: -0.766058 LargeSurfacePlacement: 0 Mat: 'ps_area_fog.mat' RenderCount: 88734
+ 'torch_static01_13_fire' ViewspaceZ: -12.160007 LargeSurfacePlacement: 0 Mat: 'particles/materials/ps_torch_fire_smoke.mat' RenderCount: 88734
+ 'torch_static01_13_fire' ViewspaceZ: -12.843499 LargeSurfacePlacement: 0 Mat: 'particles/materials/ps_torch_fire.mat' RenderCount: 88734
+ 'torch_static01_13_halo' ViewspaceZ: -12.199956 LargeSurfacePlacement: 0 Mat: 'billboards/halo_torch.mat' RenderCount: 88734
+ 'ParticleSystem_36' ViewspaceZ: -8.599748 LargeSurfacePlacement: 0 Mat: 'ps_mist_floor_square.mat' RenderCount: 88734
+ 'ParticleSystem_38' ViewspaceZ: -2.498884 LargeSurfacePlacement: 0 Mat: 'ps_mist_floor_square.mat' RenderCount: 88734
+ 'ParticleSystem_11' ViewspaceZ: -17.570194 LargeSurfacePlacement: 0 Mat: 'ps_water_drop.mat' RenderCount: 88734
+ 'ParticleSystem_37' ViewspaceZ: -8.972495 LargeSurfacePlacement: 0 Mat: 'ps_mist_floor_square.mat' RenderCount: 88734
+ 'ParticleSystem_41' ViewspaceZ: -0.429488 LargeSurfacePlacement: 0 Mat: 'ps_mist_floor_square.mat' RenderCount: 88734
+ 'ParticleSystem_64' ViewspaceZ: -5.767424 LargeSurfacePlacement: 0 Mat: 'ps_area_fog.mat' RenderCount: 88734
+ 'ParticleSystem_22' ViewspaceZ: -7.382843 LargeSurfacePlacement: 0 Mat: 'ps_area_fog.mat' RenderCount: 88734
+ 'ParticleSystem_24' ViewspaceZ: -9.543657 LargeSurfacePlacement: 0 Mat: 'C:/SVN/lux/redist/particles/materials/ps_fly.mat' RenderCount: 88734
+ 'ParticleSystem_26' ViewspaceZ: -10.732448 LargeSurfacePlacement: 0 Mat: 'C:/SVN/lux/redist/particles/materials/ps_fly.mat' RenderCount: 88734
+ 'ParticleSystem_27' ViewspaceZ: -11.292994 LargeSurfacePlacement: 0 Mat: 'C:/SVN/lux/redist/particles/materials/ps_fly.mat' RenderCount: 88734
+ 'CombinedObjects181_SubMesh' ViewspaceZ: -11.431167 LargeSurfacePlacement: 0 Mat: 'static_objects/decals/cobweb_01.mat' RenderCount: 88734
+Solid Objects:
+ 'CombinedObjects120_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/cellarbase/wall/cellarbase_wood_beams.mat' RenderCount: 88734
+ 'CombinedObjects119_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/cellarbase/wall/cellarbase.mat' RenderCount: 88734
+ 'CombinedObjects117_SubMesh' Mat: 'cellarbase_wood_floor.mat' RenderCount: 88734
+ 'CombinedObjects121_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/cellarbase/wall/cellarbase_details.mat' RenderCount: 88734
+ 'CombinedObjects116_SubMesh' Mat: 'static_objects/debris/cellarbase_broken_wall/cellarbase_pieces.mat' RenderCount: 88734
+ 'CombinedObjects69_SubMesh' Mat: 'G:/amnesia/redist/static_objects/cellarbase/floor/cellarbase_floor_rough.mat' RenderCount: 88734
+ 'CombinedObjects124_SubMesh' Mat: 'static_objects/cellarbase/wall/dungeon_cave_in.mat' RenderCount: 88734
+ 'CombinedObjects67_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/pebbles01-04.mat' RenderCount: 88734
+ 'CombinedObjects126_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/pebbles01-04.mat' RenderCount: 88734
+ 'stairs_wood_1_polySurface26' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/cellarbase/wall/cellarbase_details.mat' RenderCount: 88734
+ 'stairs_wood_1_polySurface18_001' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/cellarbase/wall/cellarbase_details.mat' RenderCount: 88734
+ 'stairs_wood_1_Plane' Mat: 'cellarbase_wood_floor.mat' RenderCount: 88734
+ 'cave_in_1_polySurface1' Mat: 'entities/special/cave_in/cave_in.mat' RenderCount: 88734
+ 'torch_static01_13_pCylinder1' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist.steam/entities/lamp/torch_static01/torch_static01.mat' RenderCount: 88734
+ 'stairs_wood_1_polySurface37_025' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/cellarbase/wall/cellarbase_details.mat' RenderCount: 88734
+ 'stairs_wood_1_polySurface37_038' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/cellarbase/wall/cellarbase_details.mat' RenderCount: 88734
+ 'torch_static01_12_pCylinder1' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist.steam/entities/lamp/torch_static01/torch_static01.mat' RenderCount: 88734
+ 'stairs_wood_1_polySurface37_026' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/cellarbase/wall/cellarbase_wood_beams.mat' RenderCount: 88734
+ 'stairs_wood_1_pCube2_014' Mat: 'cellarbase_wood_floor.mat' RenderCount: 88734
+ 'bread_rotten_1_headusOBJexport' Mat: 'entities/ration/bread_rotten/bread_rotten.mat' RenderCount: 88734
+ 'bread_rotten_2_headusOBJexport' Mat: 'entities/ration/bread_rotten/bread_rotten.mat' RenderCount: 88734
+ 'bread_rotten_3_headusOBJexport' Mat: 'entities/ration/bread_rotten/bread_rotten.mat' RenderCount: 88734
+ 'PlatformDynStickLift_1_polySurface32' Mat: 'entities/gameplay/lift_wood/debris_plank.mat' RenderCount: 88734
+ 'PlatformDynStickLift_1_polySurface33' Mat: 'entities/gameplay/lift_wood/debris_plank.mat' RenderCount: 88734
+ 'potion_oil_3_pCylinder1' Mat: 'entities/item/potion_oil/potion_oil.mat' RenderCount: 88734
+ 'PlatformDynStickLift_2_polySurface32' Mat: 'entities/gameplay/lift_wood/debris_plank.mat' RenderCount: 88734
+ 'PlatformDynStickLift_2_polySurface33' Mat: 'entities/gameplay/lift_wood/debris_plank.mat' RenderCount: 88734
+ 'CombinedObjects204_SubMesh' Mat: 'cellarbase_wood_floor.mat' RenderCount: 88734
+ 'CombinedObjects207_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/cellarbase/wall/cellarbase_wood_beams.mat' RenderCount: 88734
+ 'CombinedObjects206_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/cellarbase/wall/cellarbase.mat' RenderCount: 88734
+ 'CombinedObjects182_SubMesh' Mat: 'static_objects/cellarbase/floor/cellarbase_floor_alt.mat' RenderCount: 88734
+ 'CombinedObjects180_SubMesh' Mat: 'cellarbase_wood_floor.mat' RenderCount: 88734
+ 'CombinedObjects179_SubMesh' Mat: 'static_objects/technical/plane_black/plane_black.mat' RenderCount: 88734
+ 'CombinedObjects171_SubMesh' Mat: 'static_objects/debris/cellarbase_broken_wall/cellarbase_pieces.mat' RenderCount: 88734
+ 'CombinedObjects174_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/cellarbase/wall/cellarbase.mat' RenderCount: 88734
+ 'CombinedObjects175_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/cellarbase/wall/cellarbase_wood_beams.mat' RenderCount: 88734
+ 'CombinedObjects172_SubMesh' Mat: 'cellarbase_wood_floor.mat' RenderCount: 88734
+ 'CombinedObjects177_SubMesh' Mat: 'cellarbase_floor.mat' RenderCount: 88734
+ 'CombinedObjects125_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/pebbles01-04.mat' RenderCount: 88734
+ 'CombinedObjects178_SubMesh' Mat: 'static_objects/cellarbase/wall/dungeon_cave_in.mat' RenderCount: 88734
+ 'CombinedObjects205_SubMesh' Mat: 'static_objects/decals/pile_of_food.mat' RenderCount: 88734
+ 'CombinedObjects173_SubMesh' Mat: 'static_objects/decals/pile_of_food.mat' RenderCount: 88734
+ 'shelf_no_back_9_shelf_no_back' Mat: 'entities/storage/shelf_no_back/shelf_no_back.mat' RenderCount: 88734
+Decal Objects:
+ 'CombinedObjects74_SubMesh' Mat: 'static_objects/decals/dirt_floor01.mat' RenderCount: 88734
+ 'CombinedObjects73_SubMesh' Mat: 'static_objects/decals/dirt_floor01.mat' RenderCount: 88734
+ 'CombinedObjects139_SubMesh' Mat: 'static_objects/decals/dirt_floor01.mat' RenderCount: 88734
+ 'CombinedObjects128_SubMesh' Mat: 'static_objects/decals/dirt_floor01.mat' RenderCount: 88734
+ 'CombinedObjects137_SubMesh' Mat: 'static_objects/decals/dirt_floor01.mat' RenderCount: 88734
+ 'CombinedObjects194_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88734
+ 'CombinedObjects130_SubMesh' Mat: 'static_objects/decals/dirt_floor01.mat' RenderCount: 88734
+ 'CombinedObjects131_SubMesh' Mat: 'static_objects/decals/dirt_floor01.mat' RenderCount: 88734
+ 'CombinedObjects161_SubMesh' Mat: 'static_objects/decals/dirt_floor02.mat' RenderCount: 88734
+ 'CombinedObjects155_SubMesh' Mat: 'static_objects/decals/dirt_floor02.mat' RenderCount: 88734
+ 'CombinedObjects153_SubMesh' Mat: 'static_objects/decals/dirt_floor02.mat' RenderCount: 88734
+ 'CombinedObjects168_SubMesh' Mat: 'static_objects/decals/dirt_floor02.mat' RenderCount: 88734
+ 'CombinedObjects167_SubMesh' Mat: 'static_objects/decals/dirt_floor02.mat' RenderCount: 88734
+ 'CombinedObjects134_SubMesh' Mat: 'static_objects/decals/dirt_floor01.mat' RenderCount: 88734
+ 'CombinedObjects142_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88734
+ 'CombinedObjects141_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88734
+ 'CombinedObjects140_SubMesh' Mat: 'static_objects/decals/dirt_floor01.mat' RenderCount: 88734
+ 'CombinedObjects138_SubMesh' Mat: 'static_objects/decals/dirt_floor01.mat' RenderCount: 88734
+ 'CombinedObjects129_SubMesh' Mat: 'static_objects/decals/dirt_floor01.mat' RenderCount: 88734
+ 'CombinedObjects132_SubMesh' Mat: 'static_objects/decals/dirt_floor01.mat' RenderCount: 88734
+ 'CombinedObjects151_SubMesh' Mat: 'static_objects/decals/dirt_floor02.mat' RenderCount: 88734
+ 'CombinedObjects149_SubMesh' Mat: 'static_objects/decals/dirt_floor02.mat' RenderCount: 88734
+ 'CombinedObjects148_SubMesh' Mat: 'static_objects/decals/dirt_floor02.mat' RenderCount: 88734
+ 'CombinedObjects165_SubMesh' Mat: 'static_objects/decals/dirt_floor02.mat' RenderCount: 88734
+ 'CombinedObjects147_SubMesh' Mat: 'static_objects/decals/dirt_floor02.mat' RenderCount: 88734
+ 'CombinedObjects164_SubMesh' Mat: 'static_objects/decals/dirt_floor02.mat' RenderCount: 88734
+ 'CombinedObjects170_SubMesh' Mat: 'static_objects/decals/dirt_floor02.mat' RenderCount: 88734
+ 'CombinedObjects163_SubMesh' Mat: 'static_objects/decals/dirt_floor02.mat' RenderCount: 88734
+ 'CombinedObjects144_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88734
+ 'CombinedObjects133_SubMesh' Mat: 'static_objects/decals/dirt_floor01.mat' RenderCount: 88734
+ 'CombinedObjects176_SubMesh' Mat: 'static_objects/decals/steps_floor01.mat' RenderCount: 88734
+ 'CombinedObjects192_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88734
+ 'CombinedObjects190_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88734
+ 'CombinedObjects191_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88734
+ 'CombinedObjects188_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88734
+ 'CombinedObjects198_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88734
+ 'CombinedObjects186_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88734
+ 'CombinedObjects185_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88734
+ 'CombinedObjects187_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88734
+ 'CombinedObjects189_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88734
+ 'CombinedObjects183_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88734
+ 'CombinedObjects143_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88734
+ 'CombinedObjects193_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88734
+ 'CombinedObjects196_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88734
+ 'CombinedObjects208_SubMesh' Mat: 'static_objects/decals/steps_floor01.mat' RenderCount: 88734
+ 'CombinedObjects200_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88438
+ 'CombinedObjects201_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88438
+ 'CombinedObjects199_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88438
+ 'CombinedObjects203_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88437
+ 'CombinedObjects197_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88482
+ 'CombinedObjects184_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88482
+ 'CombinedObjects202_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88482
+ 'CombinedObjects209_SubMesh' Mat: 'static_objects/decals/pool_wine02.mat' RenderCount: 88482
+ 'CombinedObjects195_SubMesh' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/moist_wall01.mat' RenderCount: 88482
+Illum Objects:
+ 'torch_static01_13_pCylinder1' Mat: '/Users/urkle/Projects/FrictionalGames/Amnesia/redist.steam/entities/lamp/torch_static01/torch_static01.mat' RenderCount: 88734
+ 'potion_oil_3_pCylinder1' Mat: 'entities/item/potion_oil/potion_oil.mat' RenderCount: 88734
+---------------------------------
+----------
+ -- Start Rendering GBuffer:
+----------
+  Setting depth func: Equal
+  Setting channel mode: RGBA
+  Setting gpu program 227171584 : 'soliddiffuse_Diffuse_UseNormalMapping_UseParallax'
+  Setting up type specific program vars for material type 68343136/'soliddiffuse'
+  Setting up material specific program vars for material 224826576/'/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/decals/pebbles01-04.mat'
+  Setting texture unit: 0, 473171944/'G:/Projects/3d/work/amnesia game/SVN/redist/static_objects/decals/pebbles01-04.dds'
+  Setting texture unit: 1, 473177096/'G:/Projects/3d/work/amnesia game/SVN/redist/static_objects/decals/pebbles01-04_nrm.dds'
+  Setting texture unit: 3, 473175304/'G:/Projects/3d/work/amnesia game/SVN/redist/static_objects/decals/pebbles01-04_height.tga'
+  Setting model matrix: NULL
+  Setting vertex buffer: 533725584
+   Drawing vertex buffer
+  Setting vertex buffer: 533728080
+   Drawing vertex buffer
+  Setting vertex buffer: 533753768
+   Drawing vertex buffer
+  Setting gpu program 293450320 : 'soliddiffuse_Diffuse_UseNormalMapping_UseSpecular'
+  Setting up type specific program vars for material type 68343136/'soliddiffuse'
+  Setting texture unit: 0, 218564880/'C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/special/cave_in/cave_in.dds'
+  Setting texture unit: 1, 218568016/'C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/special/cave_in/cave_in_nrm.dds'
+  Setting texture unit: 2, 218563312/'C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/special/cave_in/cave_in_spec.dds'
+  Setting texture unit: 3, 'NULL
+  Setting model matrix: 375257692 / [-0.343974 : 0.000000 : -0.938979 : 24.437000] [-0.000001 : 1.000000 : 0.000000 : -8.050001] [0.938979 : 0.000001 : -0.343974 : 32.893002] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 216278544
+   Drawing vertex buffer
+  Setting texture unit: 0, 370990032/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/debris/wood/debris_plank.dds'
+  Setting texture unit: 1, 370995856/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/debris/wood/debris_plank_nrm.dds'
+  Setting texture unit: 2, 370992272/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/debris/wood/debris_plank_spec.dds'
+  Setting model matrix: 295826588 / [0.373696 : 0.531432 : 0.315602 : 16.272379] [0.533699 : -0.474057 : -0.001224 : -6.800443] [0.194723 : 0.279419 : -0.602324 : 30.183109] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377753848
+   Drawing vertex buffer
+  Setting model matrix: 375223060 / [0.395804 : 0.493328 : 0.336816 : 15.428879] [0.505072 : -0.512218 : -0.000749 : -6.850377] [0.225037 : 0.281933 : -0.590724 : 31.034178] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+   Drawing vertex buffer
+  Setting model matrix: 295835012 / [0.315731 : 0.531432 : -0.373587 : 16.566799] [-0.001039 : -0.474057 : -0.533699 : -7.317142] [-0.602257 : 0.279419 : -0.194931 : 28.999744] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377754472
+   Drawing vertex buffer
+  Setting model matrix: 375244588 / [0.336953 : 0.493328 : -0.395688 : 15.736743] [-0.000575 : -0.512218 : -0.505072 : -7.346335] [-0.590646 : 0.281933 : -0.225241 : 29.845373] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+   Drawing vertex buffer
+  Setting texture unit: 0, 472791744/'C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/ration/bread_rotten/bread_rotten.dds'
+  Setting texture unit: 1, 472789056/'C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/ration/bread_rotten/bread_rotten_nrm.dds'
+  Setting texture unit: 2, 472789280/'C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/ration/bread_rotten/bread_rotten_spec.dds'
+  Setting model matrix: 295854668 / [0.147851 : -0.988333 : -0.036582 : 19.993210] [-0.001216 : -0.037170 : 0.999308 : -7.897448] [-0.989009 : -0.147704 : -0.006698 : 40.796867] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377765600
+   Drawing vertex buffer
+  Setting model matrix: 295855604 / [-0.850614 : 0.218196 : 0.478379 : 22.752581] [0.182961 : 0.975800 : -0.119751 : -7.790076] [-0.492931 : -0.014337 : -0.869950 : 41.007030] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+   Drawing vertex buffer
+  Setting model matrix: 295867772 / [0.856500 : -0.233029 : 0.460549 : 22.209747] [0.139955 : 0.963706 : 0.227338 : -7.920478] [-0.496810 : -0.130259 : 0.858028 : 40.471497] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+   Drawing vertex buffer
+  Setting texture unit: 0, 473188072/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/cellarbase/cellarbase_details.dds'
+  Setting texture unit: 1, 473189192/'cellarbase_details_nrm'
+  Setting texture unit: 2, 473190312/'cellarbase_details_spec'
+  Setting model matrix: 375460804 / [-0.000003 : 0.000000 : -1.000000 : 13.806058] [0.000000 : 1.000000 : 0.000000 : -7.988250] [1.000000 : 0.000000 : -0.000003 : 32.324909] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377772464
+   Drawing vertex buffer
+  Setting model matrix: 375472036 / [-1.000000 : 0.000000 : 0.000003 : 15.497140] [0.000000 : 1.000000 : 0.000000 : -5.897520] [-0.000003 : 0.000000 : -1.000000 : 38.220722] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377776104
+   Drawing vertex buffer
+  Setting model matrix: 375469228 / [-1.000000 : 0.000000 : 0.000003 : 15.497140] [0.000000 : 1.000000 : 0.000000 : -5.897520] [-0.000003 : 0.000000 : -1.000000 : 38.220734] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377777248
+   Drawing vertex buffer
+  Setting model matrix: 375463612 / [-0.000003 : 0.000000 : -1.000000 : 13.806058] [0.000000 : 1.000000 : 0.000000 : -7.988250] [1.000000 : 0.000000 : -0.000003 : 32.324909] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377777872
+   Drawing vertex buffer
+  Setting model matrix: NULL
+  Setting vertex buffer: 533726624
+   Drawing vertex buffer
+  Setting texture unit: 0, 473189864/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/cellarbase/cellarbase_wood_beams.dds'
+  Setting texture unit: 1, 473188968/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/cellarbase/cellarbase_wood_beams_nrm.dds'
+  Setting texture unit: 2, 473186952/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/cellarbase/cellarbase_wood_beams_spec.dds'
+  Setting model matrix: 375477652 / [-0.000003 : 0.000000 : -1.000000 : 13.806058] [0.000000 : 1.000000 : 0.000000 : -7.988250] [1.000000 : 0.000000 : -0.000003 : 32.324909] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377772256
+   Drawing vertex buffer
+  Setting model matrix: NULL
+  Setting vertex buffer: 533728496
+   Drawing vertex buffer
+  Setting vertex buffer: 533732656
+   Drawing vertex buffer
+  Setting vertex buffer: 533737960
+   Drawing vertex buffer
+  Setting texture unit: 0, 473208680/'E:/lux/redist/entities/lamp/torch_static01/torch_static01.dds'
+  Setting texture unit: 1, 473210024/'E:/lux/redist/entities/lamp/torch_static01/torch_static01_nrm.dds'
+  Setting texture unit: 2, 473212936/'E:/lux/redist/entities/lamp/torch_static01/torch_static01_spec.dds'
+  Setting model matrix: 375444892 / [0.000003 : 0.000004 : -0.800000 : 23.217400] [-0.000000 : 0.800000 : 0.000004 : -6.792450] [0.800000 : -0.000000 : 0.000003 : 31.877701] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377764144
+   Drawing vertex buffer
+  Setting model matrix: 375450508 / [-0.000003 : 0.000000 : 0.800000 : 9.793850] [0.000000 : 0.800000 : 0.000000 : -6.157140] [-0.800000 : 0.000000 : -0.000003 : 28.429701] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+   Drawing vertex buffer
+  Setting texture unit: 0, 532201248/'C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/item/potion_oil/potion_oil.dds'
+  Setting texture unit: 1, 532201472/'C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/item/potion_oil/potion_oil_nrm.dds'
+  Setting texture unit: 2, 532203712/'C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/item/potion_oil/potion_oil_spec.dds'
+  Setting model matrix: 295891172 / [0.235582 : -0.508056 : 0.828481 : 22.627590] [-0.961827 : 0.000260 : 0.273659 : -7.882720] [-0.139250 : -0.861324 : -0.488600 : 30.174213] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 527059264
+   Drawing vertex buffer
+  Setting texture unit: 0, 532219616/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/pile_of_food.dds'
+  Setting texture unit: 1, 532216928/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/pile_of_food_nrm.dds'
+  Setting texture unit: 2, 532220288/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/pile_of_food_spec.dds'
+  Setting model matrix: NULL
+  Setting vertex buffer: 533733280
+   Drawing vertex buffer
+  Setting vertex buffer: 533737128
+   Drawing vertex buffer
+  Setting texture unit: 0, 532220736/'G:/amnesia/redist/static_objects/cellarbase/cellarbase_pieces.dds'
+  Setting texture unit: 1, 532218720/'G:/amnesia/redist/static_objects/cellarbase/cellarbase_pieces_nrm.dds'
+  Setting texture unit: 2, 532216256/'G:/amnesia/redist/static_objects/cellarbase/cellarbase_pieces_spec.dds'
+  Setting vertex buffer: 533727456
+   Drawing vertex buffer
+  Setting vertex buffer: 533734008
+   Drawing vertex buffer
+  Setting texture unit: 0, 532223648/'E:/lux/redist/static_objects/debris/dungeon_cave_in/dungeon_cave_in.dds'
+  Setting texture unit: 1, 532228352/'E:/lux/redist/static_objects/debris/dungeon_cave_in/dungeon_cave_in_nrm.dds'
+  Setting texture unit: 2, 532222752/'E:/lux/redist/static_objects/debris/dungeon_cave_in/dungeon_cave_in_spec.dds'
+  Setting vertex buffer: 533726728
+   Drawing vertex buffer
+  Setting vertex buffer: 533734944
+   Drawing vertex buffer
+  Setting texture unit: 0, 532223872/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/cellarbase/floor/cellarbase_floor_alt.dds'
+  Setting texture unit: 1, 532228576/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/cellarbase/floor/cellarbase_floor_alt_nrm.dds'
+  Setting texture unit: 2, 532228800/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/cellarbase/floor/cellarbase_floor_alt_spec.dds'
+  Setting vertex buffer: 533733384
+   Drawing vertex buffer
+  Setting texture unit: 0, 532224096/'C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/storage/shelf_no_back/shelf_no_back.dds'
+  Setting texture unit: 1, 532227904/'C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/storage/shelf_no_back/shelf_no_back_nrm.dds'
+  Setting texture unit: 2, 532225888/'C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/storage/shelf_no_back/shelf_no_back_spec.dds'
+  Setting model matrix: 375237100 / [0.956621 : 0.291334 : 0.000703 : 21.250000] [0.000701 : 0.000110 : -1.000000 : -7.750000] [-0.291334 : 0.956621 : -0.000099 : 26.500000] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 533741808
+   Drawing vertex buffer
+  Setting gpu program 293451200 : 'soliddiffuse_Diffuse_UseNormalMapping_UseSpecular_UseParallax'
+  Setting up type specific program vars for material type 68343136/'soliddiffuse'
+  Setting up material specific program vars for material 291840960/'/Users/urkle/Projects/FrictionalGames/Amnesia/redist/static_objects/cellarbase/wall/cellarbase.mat'
+  Setting texture unit: 0, 473182024/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/cellarbase/cellarbase.dds'
+  Setting texture unit: 1, 473187848/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/cellarbase/cellarbase_nrm.dds'
+  Setting texture unit: 2, 473189640/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/cellarbase/cellarbase_spec.dds'
+  Setting texture unit: 3, 473186056/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/cellarbase/cellarbase_height.tga'
+  Setting model matrix: NULL
+  Setting vertex buffer: 533726104
+   Drawing vertex buffer
+  Setting vertex buffer: 533731928
+   Drawing vertex buffer
+  Setting vertex buffer: 533737856
+   Drawing vertex buffer
+  Setting up material specific program vars for material 289152976/'G:/amnesia/redist/static_objects/cellarbase/floor/cellarbase_floor_rough.mat'
+  Setting texture unit: 0, 532217376/'G:/amnesia/redist/static_objects/cellarbase/floor/cellarbase_floor_dirt_rough.dds'
+  Setting texture unit: 1, 532215136/'G:/amnesia/redist/static_objects/cellarbase/floor/cellarbase_floor_dirt_rough_nrm.dds'
+  Setting texture unit: 2, 532216032/'G:/amnesia/redist/static_objects/cellarbase/floor/cellarbase_floor_dirt_rough_spec.dds'
+  Setting texture unit: 3, 532218944/'G:/amnesia/redist/static_objects/cellarbase/floor/cellarbase_floor_dirt_rough_height.tga'
+  Setting vertex buffer: 533753248
+   Drawing vertex buffer
+  Setting up material specific program vars for material 532291400/'cellarbase_wood_floor.mat'
+  Setting texture unit: 0, 532218272/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/cellarbase/floor/cellarbase_wood_floor.dds'
+  Setting texture unit: 1, 532217600/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/cellarbase/floor/cellarbase_wood_floor_nrm.dds'
+  Setting texture unit: 2, 532219168/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/cellarbase/floor/cellarbase_wood_floor_spec.dds'
+  Setting texture unit: 3, 532216704/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/cellarbase/floor/cellarbase_wood_floor_height.tga'
+  Setting model matrix: 375468292 / [-1.000000 : 0.000000 : 0.000003 : 13.603940] [0.000000 : 1.000000 : 0.000000 : -5.990050] [-0.000003 : 0.000000 : -1.000000 : 38.291607] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377776936
+   Drawing vertex buffer
+  Setting model matrix: 375466420 / [-1.000000 : 0.000000 : 0.000003 : 14.885512] [0.000000 : 1.000000 : 0.000000 : -7.208390] [-0.000003 : 0.000000 : -1.000000 : 37.332809] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377777664
+   Drawing vertex buffer
+  Setting model matrix: NULL
+  Setting vertex buffer: 533726520
+   Drawing vertex buffer
+  Setting vertex buffer: 533732240
+   Drawing vertex buffer
+  Setting vertex buffer: 533734216
+   Drawing vertex buffer
+  Setting vertex buffer: 533737024
+   Drawing vertex buffer
+  Setting up material specific program vars for material 532296944/'cellarbase_floor.mat'
+  Setting texture unit: 0, 532227008/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/cellarbase/floor/cellarbase_floor.dds'
+  Setting texture unit: 1, 532223424/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/cellarbase/floor/cellarbase_floor_nrm.dds'
+  Setting texture unit: 2, 532222304/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/cellarbase/floor/cellarbase_floor_spec.dds'
+  Setting texture unit: 3, 532227232/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/cellarbase/floor/cellarbase_floor_height.tga'
+  Setting vertex buffer: 533732864
+   Drawing vertex buffer
+  Setting gpu program 293455512 : 'soliddiffuse_Diffuse'
+  Setting up type specific program vars for material type 68343136/'soliddiffuse'
+  Setting texture unit: 0, 216635944/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/technical/plane_black/plane_black.dds'
+  Setting texture unit: 1, 'NULL
+  Setting texture unit: 2, 'NULL
+  Setting texture unit: 3, 'NULL
+  Setting vertex buffer: 533734424
+   Drawing vertex buffer
+  Setting depth func: LessOrEqual
+----------
+----------
+ -- Start Rendering Decals:
+----------
+ Setting FrameBuffer 82000648 'Deferred_GBuffer_ColorDepth', pos: 0,0 size: 1920x1080
+  Setting alpha limit: 0.010000
+  Setting alpha mode: Trans
+  Setting blend mode: Mul
+  Setting gpu program 227163488 : 'decal_Diffuse'
+  Setting up type specific program vars for material type 68278560/'decal'
+  Setting texture unit: 0, 215083800/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/dirt_floor01.dds'
+  Setting vertex buffer: 533725480
+   Drawing vertex buffer
+  Setting vertex buffer: 533725688
+   Drawing vertex buffer
+  Setting vertex buffer: 533725792
+   Drawing vertex buffer
+  Setting vertex buffer: 533726832
+   Drawing vertex buffer
+  Setting vertex buffer: 533727040
+   Drawing vertex buffer
+  Setting vertex buffer: 533727144
+   Drawing vertex buffer
+  Setting vertex buffer: 533727248
+   Drawing vertex buffer
+  Setting vertex buffer: 533727352
+   Drawing vertex buffer
+  Setting vertex buffer: 533727560
+   Drawing vertex buffer
+  Setting texture unit: 0, 216635272/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/dirt_floor02.dds'
+  Setting vertex buffer: 533728704
+   Drawing vertex buffer
+  Setting vertex buffer: 533729120
+   Drawing vertex buffer
+  Setting vertex buffer: 533729848
+   Drawing vertex buffer
+  Setting vertex buffer: 533729952
+   Drawing vertex buffer
+  Setting texture unit: 0, 215083800/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/dirt_floor01.dds'
+  Setting vertex buffer: 533730056
+   Drawing vertex buffer
+  Setting texture unit: 0, 527226936/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/moist_wall01.dds'
+  Setting vertex buffer: 533730160
+   Drawing vertex buffer
+  Setting texture unit: 0, 216635272/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/dirt_floor02.dds'
+  Setting vertex buffer: 533730368
+   Drawing vertex buffer
+  Setting vertex buffer: 533730472
+   Drawing vertex buffer
+  Setting texture unit: 0, 527226936/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/moist_wall01.dds'
+  Setting vertex buffer: 533730576
+   Drawing vertex buffer
+  Setting texture unit: 0, 216635272/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/dirt_floor02.dds'
+  Setting vertex buffer: 533730680
+   Drawing vertex buffer
+  Setting vertex buffer: 533730784
+   Drawing vertex buffer
+  Setting texture unit: 0, 527226936/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/moist_wall01.dds'
+  Setting vertex buffer: 533730888
+   Drawing vertex buffer
+  Setting texture unit: 0, 216635272/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/dirt_floor02.dds'
+  Setting vertex buffer: 533730992
+   Drawing vertex buffer
+  Setting texture unit: 0, 215083800/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/dirt_floor01.dds'
+  Setting vertex buffer: 533731408
+   Drawing vertex buffer
+  Setting texture unit: 0, 216635272/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/dirt_floor02.dds'
+  Setting vertex buffer: 533731512
+   Drawing vertex buffer
+  Setting texture unit: 0, 527226936/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/moist_wall01.dds'
+  Setting vertex buffer: 533731824
+   Drawing vertex buffer
+  Setting vertex buffer: 533732032
+   Drawing vertex buffer
+  Setting texture unit: 0, 216635272/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/dirt_floor02.dds'
+  Setting vertex buffer: 533732552
+   Drawing vertex buffer
+  Setting vertex buffer: 533733072
+   Drawing vertex buffer
+  Setting vertex buffer: 533733696
+   Drawing vertex buffer
+  Setting texture unit: 0, 532226784/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/steps_floor01.dds'
+  Setting vertex buffer: 533734112
+   Drawing vertex buffer
+  Setting texture unit: 0, 527226936/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/moist_wall01.dds'
+  Setting vertex buffer: 533734320
+   Drawing vertex buffer
+  Setting vertex buffer: 533734528
+   Drawing vertex buffer
+  Setting vertex buffer: 533734632
+   Drawing vertex buffer
+  Setting vertex buffer: 533735464
+   Drawing vertex buffer
+  Setting vertex buffer: 533735672
+   Drawing vertex buffer
+  Setting vertex buffer: 533735776
+   Drawing vertex buffer
+  Setting vertex buffer: 533735880
+   Drawing vertex buffer
+  Setting vertex buffer: 533735984
+   Drawing vertex buffer
+  Setting vertex buffer: 533736088
+   Drawing vertex buffer
+  Setting vertex buffer: 533736192
+   Drawing vertex buffer
+  Setting texture unit: 0, 532226784/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/steps_floor01.dds'
+  Setting vertex buffer: 533736296
+   Drawing vertex buffer
+  Setting texture unit: 0, 527226936/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/moist_wall01.dds'
+  Setting vertex buffer: 533736504
+   Drawing vertex buffer
+  Setting vertex buffer: 533736608
+   Drawing vertex buffer
+  Setting vertex buffer: 533736816
+   Drawing vertex buffer
+  Setting vertex buffer: 533736920
+   Drawing vertex buffer
+  Setting texture unit: 0, 532222528/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/pool_wine02.dds'
+  Setting vertex buffer: 533737232
+   Drawing vertex buffer
+  Setting texture unit: 0, 527226936/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/moist_wall01.dds'
+  Setting vertex buffer: 533737336
+   Drawing vertex buffer
+  Setting vertex buffer: 533737440
+   Drawing vertex buffer
+  Setting vertex buffer: 533737648
+   Drawing vertex buffer
+  Setting vertex buffer: 533737752
+   Drawing vertex buffer
+  Setting vertex buffer: 533738272
+   Drawing vertex buffer
+  Setting vertex buffer: 533738376
+   Drawing vertex buffer
+  Setting texture unit: 0, 215083800/'C:/Games/XCOM 2/Amnesia - The Dark Descent/static_objects/decals/dirt_floor01.dds'
+  Setting vertex buffer: 533752728
+   Drawing vertex buffer
+  Setting vertex buffer: 533754808
+   Drawing vertex buffer
+  Setting alpha mode: Solid
+  Setting alpha limit: 0.500000
+----------
+----------
+ -- Start Rendering Lights:
+----------
+ Fetching query for light 'SpotLight_3'/225485072. Have 438598 samples. Visible: 1
+ Fetching query for light 'torch_static01_13_PointLight_1'/300652392. Have 137536 samples. Visible: 1
+ Fetching query for light 'PointLight_23'/372467368. Have 99191 samples. Visible: 1
+----------
+ -- Start Rendering SSAO:
+----------
+  Setting blend mode: None
+  Setting depth test active: 0
+ Setting Ortho Projection min: -497.925354 : 280.083008 : -600.000000, max: 497.925354 : -280.083008 : 600.000000
+ Setting FrameBuffer 82003552 'LinearDepth', default size
+  Setting gpu program 82002936 : 'UnpackDepth'
+  Setting texture unit: 0, 81998000/'G-BufferTexure2'
+   Drawing quad to: pos (-497.925354 : 280.083008 : -400.000000) size (995.850708 : -560.166016) uv: (0.000000 : 0.000000)-(1920.000000 : 1080.000000)
+ Setting FrameBuffer 82003200 'SSAO', default size
+  Setting texture unit: 0, 82015568/'LinearDepth'
+  Setting texture unit: 1, 82014448/'SSAOScatterDisk'
+  Setting gpu program 82074016 : 'SSAORender'
+   Drawing quad to: pos (-497.925354 : 280.083008 : -400.000000) size (995.850708 : -560.166016) uv: (0.000000 : 0.000000)-(960.000000 : 540.000000)
+ Setting FrameBuffer 82004080 'SSAOBlur', default size
+  Setting texture unit: 0, 82015344/'SSAO'
+  Setting texture unit: 1, 82015568/'LinearDepth'
+  Setting gpu program 82003024 : 'SSAOBlurHori'
+   Drawing quad to: pos (-497.925354 : 280.083008 : -400.000000) size (995.850708 : -560.166016) uv: (0.000000 : 0.000000)-(960.000000 : 540.000000)
+ Setting FrameBuffer 82003200 'SSAO', default size
+  Setting texture unit: 0, 82016464/'SSAOBlur'
+  Setting gpu program 82073928 : 'SSAOBlurVert'
+   Drawing quad to: pos (-497.925354 : 280.083008 : -400.000000) size (995.850708 : -560.166016) uv: (0.000000 : 0.000000)-(960.000000 : 540.000000)
+  Setting channel mode: RGB
+ Setting FrameBuffer 60422208 'Deferred_GBuffer_ColorDepth', pos: 0,0 size: 1920x1080
+ Setting Ortho Projection size: 1.000000x1.000000, minz: -100.000000 maxz: 100.000000
+  Setting gpu program NULL
+  Setting blend mode: Mul
+  Setting texture unit: 0, 82015344/'SSAO'
+  Setting texture unit: 1, 'NULL
+   Drawing quad to: pos (0.000000 : 0.000000 : 0.000000) size (1.000000 : 1.000000) uv: (0.000000 : 0.000000)-(960.000000 : 540.000000)
+  Setting channel mode: RGBA
+ Setting projection matrix: 208751480  [0.803333 : 0.000000 : 0.000000 : 0.000000] [0.000000 : 1.428148 : 0.000000 : 0.000000] [0.000000 : 0.000000 : -1.000050 : -0.020000] [0.000000 : 0.000000 : -1.000000 : 0.000000].
+----------
+  Setting depth test active: 1
+  Setting blend mode: Add
+  Setting texture unit: 0, 68348272/'G-BufferTexure0'
+  Setting texture unit: 1, 68349512/'G-BufferTexure1'
+  Setting texture unit: 2, 81998000/'G-BufferTexure2'
+ Setting FrameBuffer 82002232 'Deferred_Accumulation', pos: 0,0 size: 1920x1080
+ Clearing entire frame buffer
+  Setting cull mode: Clockwise
+  Setting depth func: GreaterOrEqual
+---
+Rendering Lights StencilFront_RenderBack Begin
+  Setting stencil active: 1
+  Setting channel mode: None
+  Setting cull mode: CounterClockwise
+ Stencil light: 'PointLight_23' / 372467368
+  Setting view matrix: [0.637, 0.000, 5.000, 4.955] [1.413, 4.835, -0.180, 4.667] [-4.796, 1.424, 0.611, -14.315] [0.000, 0.000, 0.000, 1.000]
+  Setting vertex buffer: 68343760
+  Setting gpu program 82001440 : 'LightStencil'
+   Drawing vertex buffer
+ Stencil light: 'torch_static01_13_PointLight_1' / 300652392
+  Setting view matrix: [3.866, 0.000, -0.493, 2.496] [-0.139, 3.739, -1.093, 3.556] [0.473, 1.101, 3.709, -11.596] [0.000, 0.000, 0.000, 1.000]
+   Drawing vertex buffer
+ Stencil light: 'SpotLight_3' / 225485072
+  Setting view matrix: [-1.704, 6.024, 5.420, 8.854] [-3.778, -5.105, 6.051, 3.975] [12.823, -0.704, 2.503, 1.568] [0.000, 0.000, 0.000, 1.000]
+  Setting vertex buffer: 68343968
+   Drawing vertex buffer
+  Setting channel mode: RGBA
+  Setting cull mode: Clockwise
+ Rendering light: 'PointLight_23' / 372467368
+  Setting view matrix: [0.637, 0.000, 5.000, 4.955] [1.413, 4.835, -0.180, 4.667] [-4.796, 1.424, 0.611, -14.315] [0.000, 0.000, 0.000, 1.000]
+  Setting vertex buffer: 68343656
+  Setting gpu program 227164104 : 'Deferred_Lights_UseDeferredLightShapes_DivideInFrag'
+  Setting texture unit: 4, 223984400/'core_falloff_linear'
+   Drawing vertex buffer
+ Rendering light: 'torch_static01_13_PointLight_1' / 300652392
+  Setting view matrix: [3.866, 0.000, -0.493, 2.496] [-0.139, 3.739, -1.093, 3.556] [0.473, 1.101, 3.709, -11.596] [0.000, 0.000, 0.000, 1.000]
+  Setting gpu program 216878184 : 'Deferred_Lights_UseDeferredLightShapes_UseSpecular_DivideInFrag'
+   Drawing vertex buffer
+  Setting cull mode: CounterClockwise
+  Setting stencil active: 0
+  Setting depth func: LessOrEqual
+  Setting depth func: GreaterOrEqual
+  Setting stencil active: 1
+  Setting cull mode: Clockwise
+ Rendering light: 'SpotLight_3' / 225485072
+  Setting view matrix: [-1.704, 6.024, 5.420, 8.854] [-3.778, -5.105, 6.051, 3.975] [12.823, -0.704, 2.503, 1.568] [0.000, 0.000, 0.000, 1.000]
+  Setting vertex buffer: 68343968
+  Setting gpu program 227166744 : 'Deferred_Lights_UseDeferredLightShapes_UseSpecular_LightType_Spot_UseGobo_DivideInFrag_UseShadowMap'
+  Setting texture unit: 4, 365821472/'lights/light_falloff_short_fade.tga'
+  Setting texture unit: 5, 532227680/'gobo_cellarbase_window02.dds'
+  Setting texture unit: 6, 68345720/'ShadowMap1024x1024_0_Texture'
+  Setting texture unit: 7, 82013328/'ShadowOffset'
+   Drawing vertex buffer
+Rendering Lights StencilFront_RenderBack End
+---
+---
+Rendering Lights RenderBack Begin
+  Setting stencil active: 0
+ Rendering light: 'PointLight_22' / 296859216
+  Setting view matrix: [1.982, 0.000, 15.554, 3.878] [4.396, 15.041, -0.560, 2.997] [-14.920, 4.431, 1.901, -1.304] [0.000, 0.000, 0.000, 1.000]
+  Setting vertex buffer: 68343760
+  Setting gpu program 227164104 : 'Deferred_Lights_UseDeferredLightShapes_DivideInFrag'
+  Setting texture unit: 4, 223984400/'core_falloff_linear'
+   Drawing vertex buffer
+Rendering Lights RenderBack End
+---
+  Setting depth func: LessOrEqual
+  Setting cull mode: CounterClockwise
+----------
+----------
+ -- Start Rendering Illumination:
+----------
+  Setting depth func: Equal
+  Setting texture unit: 1, 'NULL
+  Setting texture unit: 2, 'NULL
+  Setting texture unit: 4, 'NULL
+  Setting texture unit: 5, 'NULL
+  Setting texture unit: 6, 'NULL
+  Setting texture unit: 7, 'NULL
+  Setting gpu program 293451728 : 'soliddiffuse_Illum'
+  Setting texture unit: 0, 473207112/'E:/lux/redist/entities/lamp/torch_static01/torch_static01_illum.dds'
+  Setting model matrix: 375444892 / [0.000003 : 0.000004 : -0.800000 : 23.217400] [-0.000000 : 0.800000 : 0.000004 : -6.792450] [0.800000 : -0.000000 : 0.000003 : 31.877701] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377764144
+   Drawing vertex buffer
+  Setting texture unit: 0, 532206176/'C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/item/potion_oil/potion_oil_illum.dds'
+  Setting model matrix: 295891172 / [0.235582 : -0.508056 : 0.828481 : 22.627590] [-0.961827 : 0.000260 : 0.273659 : -7.882720] [-0.139250 : -0.861324 : -0.488600 : 30.174213] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 527059264
+   Drawing vertex buffer
+  Setting depth func: LessOrEqual
+----------
+----------
+ -- Start Rendering Fog:
+----------
+  Setting blend mode: Alpha
+  Setting texture unit: 0, 81998000/'G-BufferTexure2'
+  Setting gpu program 227170000 : 'FogArea_Fog_OutsideBox_UseBackside'
+  Setting model matrix: 226172856 / [4.500000 : 0.000000 : 0.000000 : 29.500000] [0.000000 : 5.500000 : 0.000000 : -5.750000] [0.000000 : 0.000000 : 7.000000 : 33.750000] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 68329632
+   Drawing vertex buffer
+----------
+----------
+ -- Start Rendering FullScreenFog:
+----------
+  Setting depth test active: 0
+  Setting model matrix: NULL
+  Setting gpu program 216882320 : 'FogArea_Fog'
+ Setting Ortho Projection size: 1.000000x1.000000, minz: -100.000000 maxz: 100.000000
+   Drawing quad to: pos (0.000000 : 0.000000 : 0.000000) size (1.000000 : 1.000000) uv: (0.000000 : 0.000000)-(1.000000 : 1.000000)
+ Setting projection matrix: 208751480  [0.803333 : 0.000000 : 0.000000 : 0.000000] [0.000000 : 1.428148 : 0.000000 : 0.000000] [0.000000 : 0.000000 : -1.000050 : -0.020000] [0.000000 : 0.000000 : -1.000000 : 0.000000].
+  Setting depth test active: 1
+----------
+  Setting model matrix: NULL
+  Setting texture unit: 0, 'NULL
+  Setting gpu program NULL
+----------
+ -- Start Rendering Translucent:
+----------
+  Setting alpha limit: 0.010000
+  Setting alpha mode: Trans
+  Setting gpu program 208943928 : 'Blend3_Diffuse_UseFog_UseDiffuseMap'
+  Setting up type specific program vars for material type 82062264/'translucent'
+  Setting up material specific program vars for material 366947288/'ps_water_drop.mat'
+  Setting texture unit: 0, 472800928/'ps_water_drop'
+  Setting model matrix: 225563900 / [0.126415 : 0.280330 : -0.951543 : 8.758720] [-0.000000 : 0.959239 : 0.282597 : -6.256150] [0.991978 : -0.035724 : 0.121262 : 30.918707] [-0.000000 : 0.000000 : -0.000000 : 1.000000]
+  Setting vertex buffer: 377762792
+   Drawing vertex buffer
+  Setting blend mode: Add
+  Setting gpu program 207487224 : 'Blend0_Diffuse_UseFog_UseDiffuseMap'
+  Setting up type specific program vars for material type 82062264/'translucent'
+  Setting up material specific program vars for material 486534408/'particles/materials/ps_torch_fire.mat'
+  Setting texture unit: 0, 473207784/'C:/Games/XCOM 2/Amnesia - The Dark Descent/particles/materials/ps_torch_fire.dds'
+  Setting model matrix: 225926092 / [0.126415 : 0.280330 : -0.951543 : 8.758720] [-0.000000 : 0.959239 : 0.282597 : -6.256150] [0.991978 : -0.035724 : 0.121262 : 30.918707] [-0.000000 : 0.000000 : -0.000000 : 1.000000]
+  Setting vertex buffer: 533740144
+   Drawing vertex buffer
+  Retrieved 972 samples from occlusion object with source 296629696 and custom ID: 0.
+  Retrieved 980 samples from occlusion object with source 296629696 and custom ID: 1.
+  Setting depth test active: 0
+  Setting up material specific program vars for material 370909904/'billboards/halo_torch.mat'
+  Setting texture unit: 0, 218579440/'C:/Games/XCOM 2/Amnesia - The Dark Descent/billboards/halo_torch.dds'
+  Setting model matrix: 296630652 / [-0.067006 : -0.029051 : -0.997045 : 22.704445] [0.054839 : 0.948484 : -0.034659 : -5.771378] [0.946688 : -0.056999 : -0.068563 : 31.877703] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 533741496
+   Drawing vertex buffer
+  Setting blend mode: Alpha
+  Setting depth test active: 1
+  Setting gpu program 208943928 : 'Blend3_Diffuse_UseFog_UseDiffuseMap'
+  Setting up type specific program vars for material type 82062264/'translucent'
+  Setting up material specific program vars for material 486543032/'particles/materials/ps_torch_fire_smoke.mat'
+  Setting texture unit: 0, 473212264/'C:/Games/XCOM 2/Amnesia - The Dark Descent/particles/materials/ps_torch_fire_smoke.tga'
+  Setting model matrix: 225924868 / [0.126415 : 0.280330 : -0.951543 : 8.758720] [-0.000000 : 0.959239 : 0.282597 : -6.256150] [0.991978 : -0.035724 : 0.121262 : 30.918707] [-0.000000 : 0.000000 : -0.000000 : 1.000000]
+  Setting vertex buffer: 533741080
+   Drawing vertex buffer
+  Setting up material specific program vars for material 532295712/'static_objects/decals/cobweb_01.mat'
+  Setting texture unit: 0, 532227456/'C:/Users/Skywolf/Desktop/FrictionalGames09-2008/frictionalSVN/lux/redist/static_objects/decals/cobweb_01.dds'
+  Setting model matrix: NULL
+  Setting vertex buffer: 533735152
+   Drawing vertex buffer
+  Setting up material specific program vars for material 366947904/'C:/SVN/lux/redist/particles/materials/ps_fly.mat'
+  Setting texture unit: 0, 472804960/'C:/Games/XCOM 2/Amnesia - The Dark Descent/particles/materials/ps_fly.dds'
+  Setting model matrix: 225567572 / [0.126415 : 0.280330 : -0.951543 : 8.758720] [-0.000000 : 0.959239 : 0.282597 : -6.256150] [0.991978 : -0.035724 : 0.121262 : 30.918707] [-0.000000 : 0.000000 : -0.000000 : 1.000000]
+  Setting vertex buffer: 377763728
+   Drawing vertex buffer
+  Setting model matrix: 225552884 / [0.126415 : 0.280330 : -0.951543 : 8.758720] [-0.000000 : 0.959239 : 0.282597 : -6.256150] [0.991978 : -0.035724 : 0.121262 : 30.918707] [-0.000000 : 0.000000 : -0.000000 : 1.000000]
+  Setting vertex buffer: 377762896
+   Drawing vertex buffer
+  Setting model matrix: 225565124 / [0.126415 : 0.280330 : -0.951543 : 8.758720] [-0.000000 : 0.959239 : 0.282597 : -6.256150] [0.991978 : -0.035724 : 0.121262 : 30.918707] [-0.000000 : 0.000000 : -0.000000 : 1.000000]
+  Setting vertex buffer: 377763416
+   Drawing vertex buffer
+  Setting blend mode: Add
+  Setting gpu program 207487224 : 'Blend0_Diffuse_UseFog_UseDiffuseMap'
+  Setting up type specific program vars for material type 82062264/'translucent'
+  Setting up material specific program vars for material 296586856/'ps_mist_floor_square.mat'
+  Setting texture unit: 0, 527284504/'ps_mist_floor_square'
+  Setting model matrix: 364744940 / [1.000000 : 0.000000 : 0.000000 : 0.000000] [0.000000 : 1.000000 : 0.000000 : 0.000000] [0.000000 : 0.000000 : 1.000000 : 0.000000] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377774960
+   Drawing vertex buffer
+  Setting model matrix: 364732700 / [1.000000 : 0.000000 : 0.000000 : 0.000000] [0.000000 : 1.000000 : 0.000000 : 0.000000] [0.000000 : 0.000000 : 1.000000 : 0.000000] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377774232
+   Drawing vertex buffer
+  Setting blend mode: Alpha
+  Setting gpu program 208943928 : 'Blend3_Diffuse_UseFog_UseDiffuseMap'
+  Setting up type specific program vars for material type 82062264/'translucent'
+  Setting up material specific program vars for material 214877800/'ps_area_fog.mat'
+  Setting texture unit: 0, 209393384/'C:/Games/XCOM 2/Amnesia - The Dark Descent/particles/materials/ps_area_fog.tga'
+  Setting model matrix: 225555332 / [0.126415 : 0.280330 : -0.951543 : 8.758720] [-0.000000 : 0.959239 : 0.282597 : -6.256150] [0.991978 : -0.035724 : 0.121262 : 30.918707] [-0.000000 : 0.000000 : -0.000000 : 1.000000]
+  Setting vertex buffer: 377763104
+   Drawing vertex buffer
+  Setting model matrix: 364758404 / [0.126415 : 0.280330 : -0.951543 : 8.758720] [-0.000000 : 0.959239 : 0.282597 : -6.256150] [0.991978 : -0.035724 : 0.121262 : 30.918707] [-0.000000 : 0.000000 : -0.000000 : 1.000000]
+  Setting vertex buffer: 377772152
+   Drawing vertex buffer
+  Setting model matrix: 364740044 / [0.126415 : 0.280330 : -0.951543 : 8.758720] [-0.000000 : 0.959239 : 0.282597 : -6.256150] [0.991978 : -0.035724 : 0.121262 : 30.918707] [-0.000000 : 0.000000 : -0.000000 : 1.000000]
+  Setting vertex buffer: 377757384
+   Drawing vertex buffer
+  Setting blend mode: Add
+  Setting gpu program 207487224 : 'Blend0_Diffuse_UseFog_UseDiffuseMap'
+  Setting up type specific program vars for material type 82062264/'translucent'
+  Setting up material specific program vars for material 296586856/'ps_mist_floor_square.mat'
+  Setting texture unit: 0, 527284504/'ps_mist_floor_square'
+  Setting model matrix: 364751060 / [1.000000 : 0.000000 : 0.000000 : 0.000000] [0.000000 : 1.000000 : 0.000000 : 0.000000] [0.000000 : 0.000000 : 1.000000 : 0.000000] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377775064
+   Drawing vertex buffer
+  Setting blend mode: Alpha
+  Setting gpu program 208943928 : 'Blend3_Diffuse_UseFog_UseDiffuseMap'
+  Setting up type specific program vars for material type 82062264/'translucent'
+  Setting up material specific program vars for material 214877800/'ps_area_fog.mat'
+  Setting texture unit: 0, 209393384/'C:/Games/XCOM 2/Amnesia - The Dark Descent/particles/materials/ps_area_fog.tga'
+  Setting model matrix: 225930988 / [0.126415 : 0.280330 : -0.951543 : 8.758720] [-0.000000 : 0.959239 : 0.282597 : -6.256150] [0.991978 : -0.035724 : 0.121262 : 30.918707] [-0.000000 : 0.000000 : -0.000000 : 1.000000]
+  Setting vertex buffer: 377773088
+   Drawing vertex buffer
+  Setting blend mode: Add
+  Setting gpu program 207487224 : 'Blend0_Diffuse_UseFog_UseDiffuseMap'
+  Setting up type specific program vars for material type 82062264/'translucent'
+  Setting up material specific program vars for material 296586856/'ps_mist_floor_square.mat'
+  Setting texture unit: 0, 527284504/'ps_mist_floor_square'
+  Setting model matrix: 364742492 / [1.000000 : 0.000000 : 0.000000 : 0.000000] [0.000000 : 1.000000 : 0.000000 : 0.000000] [0.000000 : 0.000000 : 1.000000 : 0.000000] [0.000000 : 0.000000 : 0.000000 : 1.000000]
+  Setting vertex buffer: 377775376
+   Drawing vertex buffer
+  Setting blend mode: Alpha
+  Setting gpu program 208943928 : 'Blend3_Diffuse_UseFog_UseDiffuseMap'
+  Setting up type specific program vars for material type 82062264/'translucent'
+  Setting up material specific program vars for material 214877800/'ps_area_fog.mat'
+  Setting texture unit: 0, 209393384/'C:/Games/XCOM 2/Amnesia - The Dark Descent/particles/materials/ps_area_fog.tga'
+  Setting model matrix: 225929764 / [0.126415 : 0.280330 : -0.951543 : 8.758720] [-0.000000 : 0.959239 : 0.282597 : -6.256150] [0.991978 : -0.035724 : 0.121262 : 30.918707] [-0.000000 : 0.000000 : -0.000000 : 1.000000]
+  Setting vertex buffer: 377774336
+   Drawing vertex buffer
+  Setting model matrix: 531864100 / [0.126415 : 0.280330 : -0.951543 : 8.758720] [-0.000000 : 0.959239 : 0.282597 : -6.256150] [0.991978 : -0.035724 : 0.121262 : 30.918707] [-0.000000 : 0.000000 : -0.000000 : 1.000000]
+  Setting vertex buffer: 298933664
+   Drawing vertex buffer
+  Setting alpha mode: Solid
+  Setting alpha limit: 0.500000
+----------
+ Clearing occlusion queries i settings!
+  Setting blend mode: None
+----------
+Frame stats:
+----------
+ Number of Solid Objects: 43
+ Number of Trans Objects: 18
+ Number of Lights: 4
+-----------------  END -------------------------
+ -------- Loading map '02_entrance_hall.map' ---------
+    Cache Loading: 1810 ms
+  Entities: 2049 ms
+  Compilation: 46 ms
+  Total: 3992 ms
+  Meshes created: 123
+  Bodies created: 43
+ -------- Loading complete ---------
+-------- BEGIN SAVE TO: C:\Users\pepega\Documents/Amnesia/Main/_____/AutoSave_EntranceHall_2021_2_10_20_11_9_0.sav ---------
+WARNING: particle system 0 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_short_3 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_short_3 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_short_3 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_short_3 does not exist anymore!
+-------- END SAVE ---------
+ -------- Loading map '05_wine_cellar.map' ---------
+    Cache Loading: 855 ms
+  Entities: 2761 ms
+  Compilation: 37 ms
+  Total: 4043 ms
+  Meshes created: 221
+  Bodies created: 45
+ -------- Loading complete ---------
+-------- BEGIN SAVE TO: C:\Users\pepega\Documents/Amnesia/Main/_____/AutoSave_WineCellar_2021_2_10_20_11_53_0.sav ---------
+WARNING: particle system 0 in torch_static01_4 does not exist anymore!
+WARNING: particle system 0 in candlestick01_2 does not exist anymore!
+WARNING: particle system 0 in candlestick01_3 does not exist anymore!
+WARNING: particle system 0 in candlestick01_4 does not exist anymore!
+WARNING: particle system 0 in candlestick01_5 does not exist anymore!
+WARNING: particle system 0 in torch_static01_7 does not exist anymore!
+WARNING: particle system 0 in torch_static01_8 does not exist anymore!
+WARNING: particle system 0 in torch_static01_9 does not exist anymore!
+WARNING: particle system 0 in torch_static01_10 does not exist anymore!
+WARNING: particle system 0 in candlestick02_3 does not exist anymore!
+-------- END SAVE ---------
+ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
+WARNING: Entity 'torch_static01_1' with type 0 and subtype 4 does not exist!
+ERROR: Couldn't create SoundEntity 'step_sneak_generic_hard.snt'
+ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
+ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
+ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
+ -------- Loading map '02_entrance_hall.map' ---------
+    Cache Loading: 1545 ms
+  Entities: 2109 ms
+  Compilation: 47 ms
+  Total: 3782 ms
+  Meshes created: 123
+  Bodies created: 43
+ -------- Loading complete ---------
+-------- BEGIN SAVE TO: C:\Users\pepega\Documents/Amnesia/Main/_____/AutoSave_EntranceHall_2021_2_10_20_18_26_0.sav ---------
+WARNING: particle system 0 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_short_3 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_short_3 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_short_3 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_short_3 does not exist anymore!
+-------- END SAVE ---------
+WARNING: Entity 'AreaSlime2_3' does not exist!
+ -------- Loading map '04_wine_cellar_lab.map' ---------
+    Cache Loading: 1004 ms
+ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
+ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
+ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
+ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
+  Entities: 1539 ms
+  Compilation: 27 ms
+  Total: 2924 ms
+  Meshes created: 210
+  Bodies created: 28
+ -------- Loading complete ---------
+-------- BEGIN SAVE TO: C:\Users\pepega\Documents/Amnesia/Main/_____/AutoSave_WineCellarLab_2021_2_10_20_18_52_0.sav ---------
+WARNING: particle system 0 in torch_static01_12 does not exist anymore!
+WARNING: particle system 0 in candlestick_tri_2 does not exist anymore!
+WARNING: particle system 1 in candlestick_tri_2 does not exist anymore!
+WARNING: particle system 2 in candlestick_tri_2 does not exist anymore!
+-------- END SAVE ---------
+ERROR: Could not find particle system 'IgniteFire1'
+ERROR: Could not find particle system 'IgniteFire2'
+ERROR: Could not find particle system 'IgniteFire3'
+ERROR: Could not find particle system 'IgniteFire4'
+ERROR: Could not find sound entity 'IgniteSound'
+ERROR: Could not find particle system 'IgniteFire1'
+ERROR: Could not find particle system 'IgniteFire2'
+ERROR: Could not find particle system 'IgniteFire3'
+ERROR: Could not find particle system 'IgniteFire4'
+ERROR: Could not find sound entity 'IgniteSound'
+ERROR: Could not find particle system 'Part_4PSteam'
+ERROR: Could not find sound entity 'Part_4SBoil'
+ERROR: Could not find sound entity 'Part_4SSteam'
+ERROR: Could not find particle system 'Part4PSteam'
+ERROR: Could not find particle system 'Part_4PSteam'
+ERROR: Could not find sound entity 'Part_4SBoil'
+ERROR: Could not find sound entity 'Part_4SSteam'
+ERROR: Could not find particle system 'Part4PSteam'
+WARNING: Entity 'PlatformPlatformDynStickLift_2_Body_1' with type 5 and subtype -1 does not exist!
+ -------- Loading map '02_entrance_hall.map' ---------
+    Cache Loading: 1732 ms
+  Entities: 1991 ms
+  Compilation: 47 ms
+  Total: 3851 ms
+  Meshes created: 123
+  Bodies created: 43
+ -------- Loading complete ---------
+-------- BEGIN SAVE TO: C:\Users\pepega\Documents/Amnesia/Main/_____/AutoSave_EntranceHall_2021_2_10_20_22_27_0.sav ---------
+WARNING: particle system 0 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_4 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_5 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_6 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_7 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_8 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_9 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_12 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_short_1 does not exist anymore!
+WARNING: particle system 0 in chandelier_simple_short_3 does not exist anymore!
+WARNING: particle system 1 in chandelier_simple_short_3 does not exist anymore!
+WARNING: particle system 2 in chandelier_simple_short_3 does not exist anymore!
+WARNING: particle system 3 in chandelier_simple_short_3 does not exist anymore!
+-------- END SAVE ---------
+ -------- Loading map '06_distillery.map' ---------
+    Cache Loading: 1240 ms
+ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
+ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
+ERROR: Loading entity rope_beam02_1: Skeletons in mesh file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.dae) and .ent file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.ent) differ! Probably caused by .ent not being up to date with mesh
+ERROR: Loading entity rope_beam02_2: Skeletons in mesh file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.dae) and .ent file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.ent) differ! Probably caused by .ent not being up to date with mesh
+ERROR: Loading entity rope_beam02_3: Skeletons in mesh file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.dae) and .ent file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.ent) differ! Probably caused by .ent not being up to date with mesh
+  Entities: 2837 ms
+  Compilation: 50 ms
+  Total: 4679 ms
+  Meshes created: 272
+  Bodies created: 98
+ -------- Loading complete ---------
+-------- BEGIN SAVE TO: C:\Users\pepega\Documents/Amnesia/Main/_____/AutoSave_Distillery_2021_2_10_20_23_6_0.sav ---------
+WARNING: particle system 0 in torch_static01_1 does not exist anymore!
+WARNING: particle system 0 in torch_static01_2 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_ceiling_1 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_ceiling_2 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_ceiling_3 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_ceiling_4 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_ceiling_5 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_ceiling_6 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_ceiling_7 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_wall_1 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_ceiling_8 does not exist anymore!
+WARNING: particle system 0 in torch_static01_4 does not exist anymore!
+WARNING: particle system 0 in torch_static01_7 does not exist anymore!
+WARNING: particle system 0 in torch_static01_8 does not exist anymore!
+WARNING: particle system 0 in torch_static01_11 does not exist anymore!
+WARNING: particle system 0 in torch_static01_10 does not exist anymore!
+WARNING: particle system 0 in torch_static01_12 does not exist anymore!
+WARNING: particle system 0 in torch_static01_13 does not exist anymore!
+WARNING: particle system 0 in torch_static01_15 does not exist anymore!
+WARNING: particle system 0 in candlestick02_1 does not exist anymore!
+WARNING: particle system 0 in candlestick01_3 does not exist anymore!
+WARNING: particle system 0 in candle_floor_1 does not exist anymore!
+WARNING: particle system 0 in candle_floor_2 does not exist anymore!
+WARNING: particle system 0 in candle_floor_3 does not exist anymore!
+WARNING: particle system 0 in candle_floor_4 does not exist anymore!
+WARNING: particle system 0 in candle_floor_5 does not exist anymore!
+WARNING: particle system 0 in candle_floor_6 does not exist anymore!
+WARNING: particle system 0 in candle_floor_7 does not exist anymore!
+WARNING: particle system 0 in torch_static01_3 does not exist anymore!
+-------- END SAVE ---------
+-------- BEGIN SAVE TO: C:\Users\pepega\Documents/Amnesia/Main/_____/AutoSave_Distillery_2021_2_10_20_24_16_0.sav ---------
+WARNING: particle system 0 in torch_static01_1 does not exist anymore!
+WARNING: particle system 0 in torch_static01_2 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_ceiling_2 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_ceiling_3 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_ceiling_4 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_ceiling_5 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_ceiling_6 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_ceiling_7 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_wall_1 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_ceiling_8 does not exist anymore!
+WARNING: particle system 0 in torch_static01_4 does not exist anymore!
+WARNING: particle system 0 in torch_static01_7 does not exist anymore!
+WARNING: particle system 0 in torch_static01_8 does not exist anymore!
+WARNING: particle system 0 in torch_static01_11 does not exist anymore!
+WARNING: particle system 0 in torch_static01_10 does not exist anymore!
+WARNING: particle system 0 in torch_static01_12 does not exist anymore!
+WARNING: particle system 0 in torch_static01_13 does not exist anymore!
+WARNING: particle system 0 in torch_static01_15 does not exist anymore!
+WARNING: particle system 0 in candlestick02_1 does not exist anymore!
+WARNING: particle system 0 in candlestick01_3 does not exist anymore!
+WARNING: particle system 0 in candle_floor_1 does not exist anymore!
+WARNING: particle system 0 in candle_floor_2 does not exist anymore!
+WARNING: particle system 0 in candle_floor_3 does not exist anymore!
+WARNING: particle system 0 in candle_floor_4 does not exist anymore!
+WARNING: particle system 0 in candle_floor_5 does not exist anymore!
+WARNING: particle system 0 in candle_floor_6 does not exist anymore!
+WARNING: particle system 0 in candle_floor_7 does not exist anymore!
+WARNING: particle system 0 in torch_static01_3 does not exist anymore!
+-------- END SAVE ---------
+ -------- Loading map 'menu_bg.map' ---------
+    Cache Loading: 1035 ms
+  Entities: 171 ms
+  Compilation: 1 ms
+  Total: 1223 ms
+  Meshes created: 26
+  Bodies created: 5
+ -------- Loading complete ---------
+--------------------------------------------------------
+
+Statistics
+--------------------------------------------------------
+ Medium framerate: 48.240285
+--------------------------------------------------------
+
+User Exit
+--------------------------------------------------------
+ Saving main config.
+ Saving user config.
+ Deleting game modules.
+   'LuxInputHandler'
+   'LuxHelpFuncs'
+   'LuxSaveHandler'
+   'LuxScriptHandler'
+   'LuxProgressLogHandler'
+   'LuxMapHandler'
+   'LuxMapHelper'
+   'LuxPlayer'
+   'LuxInsanityHandler'
+   'LuxDebugHandler'
+   'LuxEffectRenderer'
+   'LuxMusicHandler'
+   'LuxMusicHandler'
+   'LuxEffectHandler'
+   'LuxCompletionCountHandler'
+   'LuxGlobalDataHandler'
+   'LuxHintHandler'
+   'LuxPostEffectHandler'
+   'AchievementHandler'
+   'LuxPreMenu'
+   'LuxDebugHandler'
+   'LuxInventory'
+   'LuxJournal'
+   'LuxCredits'
+   'LuxLoadScreenHandler'
+ Deleting config files.
+--------------------------------------------------------
+
+Exiting Gui Module
+--------------------------------------------------------
+ Deleting all sets
+ Deleting all skins
+ Deleting all gfx elements
+ Deleting all materials
+--------------------------------------------------------
+
+Exiting Generate Module
+--------------------------------------------------------
+--------------------------------------------------------
+
+Exiting Scene Module
+--------------------------------------------------------
+--------------------------------------------------------
+
+Exiting Input Module
+--------------------------------------------------------
+--------------------------------------------------------
+
+Exiting Sound Module
+--------------------------------------------------------
+--------------------------------------------------------
+
+Exiting Graphics Module
+--------------------------------------------------------
+--------------------------------------------------------
+
+Exiting Resources Module
+--------------------------------------------------------
+ Done with fonts
+ Done with scripts
+ Done with particles
+ Done with sounds
+ Done with meshes
+ Done with materials
+ Done with Gpu programs
+ Done with images
+ Destroyed all textures
+ Done with sound entities
+ Done with animations
+ Done with ent files
+ All resources deleted
+--------------------------------------------------------
+
+Exiting Physics Module
+--------------------------------------------------------
+--------------------------------------------------------
+
+Exiting System Module
+--------------------------------------------------------
+--------------------------------------------------------
+
+ Deleting game setup provided by user
+- Deleting lowlevel stuff.
+  Physics
+  Sound
+  Input
+  Resources
+  System
+  Graphics
+  Haptic
+HPL Exit was successful!
+
+|--Memory Manager Report-------------------------------|
+|
+| No memory leaks detected. Memory left: 0
+|
+|------------------------------------------------------|
+
