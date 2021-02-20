@@ -29,12 +29,9 @@ Initializing Sound Module
 --------------------------------------------------------
  Initializing OpenAL
   Available OpenAL devices:
-   0. Generic Software on Динамики (Realtek(R) Audio)(OpenAL default)
-   1. Generic Software on Динамики (Steam Streaming Speakers)
-   2. Generic Software on Динамики (Steam Streaming Microphone)
-   3. Generic Software on Speakers (NVIDIA RTX Voice)
-   4. Generic Software on CABLE Input (VB-Audio Virtual Cable)
-  Trying to open device 'Generic Software on Динамики (Realtek(R) Audio)'... Success!
+   0. Generic Software on Динамики (Realtek High Definition Audio)(OpenAL default)
+   1. Generic Software on Speakers (NVIDIA RTX Voice)
+  Trying to open device 'Generic Software on Динамики (Realtek High Definition Audio)'... Success!
   Number of mono sources: 32
   Streaming setup: 2 Buffers x 524288 bytes each
 --------------------------------------------------------
@@ -47,9 +44,6 @@ Initializing Game Module
 
 User Initialization
 --------------------------------------------------------
-ERROR: Couldn't load language file 'config/lang_main/'
-ERROR: Couldn't load language file 'config/lang_main/'
-ERROR: Couldn't load language file 'config/lang_main/'
 ERROR: Couldn't load language file 'config/lang_main/'
 --------------------------------------------------------
 
