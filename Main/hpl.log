@@ -86,921 +86,172 @@ User Initialization
 Game Running
 --------------------------------------------------------
  -------- Loading map 'menu_bg.map' ---------
-    Cache Loading: 681 ms
-  Entities: 114 ms
-  Compilation: 1 ms
-  Total: 804 ms
+    Cache Loading: 794 ms
+  Entities: 138 ms
+  Compilation: 0 ms
+  Total: 946 ms
   Meshes created: 26
   Bodies created: 5
  -------- Loading complete ---------
 ERROR: Sampler aGoboMap does not exist, could not bind it to unit 5
  Setting profile: '_____' Path: 'C:\Users\pepega_Based\Documents/Amnesia/Main/_____/'
---------------------------------------------------------
-
-Statistics
---------------------------------------------------------
- Medium framerate: 0.786023
---------------------------------------------------------
-
-User Exit
---------------------------------------------------------
  Saving main config.
  Saving user config.
- Deleting game modules.
-   'LuxInputHandler'
-   'LuxHelpFuncs'
-   'LuxSaveHandler'
-   'LuxScriptHandler'
-   'LuxProgressLogHandler'
-   'LuxMapHandler'
-   'LuxMapHelper'
-   'LuxPlayer'
-   'LuxInsanityHandler'
-   'LuxDebugHandler'
-   'LuxEffectRenderer'
-   'LuxMusicHandler'
-   'LuxMusicHandler'
-   'LuxEffectHandler'
-   'LuxCompletionCountHandler'
-   'LuxGlobalDataHandler'
-   'LuxHintHandler'
-   'LuxPostEffectHandler'
-   'AchievementHandler'
-   'LuxPreMenu'
-   'LuxDebugHandler'
-   'LuxInventory'
-   'LuxJournal'
-   'LuxCredits'
-   'LuxLoadScreenHandler'
- Deleting config files.
---------------------------------------------------------
-
-Exiting Gui Module
---------------------------------------------------------
- Deleting all sets
- Deleting all skins
- Deleting all gfx elements
- Deleting all materials
---------------------------------------------------------
-
-Exiting Generate Module
---------------------------------------------------------
---------------------------------------------------------
-
-Exiting Scene Module
---------------------------------------------------------
---------------------------------------------------------
-
-Exiting Input Module
---------------------------------------------------------
---------------------------------------------------------
-
-Exiting Sound Module
---------------------------------------------------------
---------------------------------------------------------
-
-Exiting Graphics Module
---------------------------------------------------------
---------------------------------------------------------
-
-Exiting Resources Module
---------------------------------------------------------
- Done with fonts
- Done with scripts
- Done with particles
- Done with sounds
- Done with meshes
- Done with materials
- Done with Gpu programs
- Done with images
- Destroyed all textures
- Done with sound entities
- Done with animations
- Done with ent files
- All resources deleted
---------------------------------------------------------
-
-Exiting Physics Module
---------------------------------------------------------
---------------------------------------------------------
-
-Exiting System Module
---------------------------------------------------------
---------------------------------------------------------
-
- Deleting game setup provided by user
-- Deleting lowlevel stuff.
-  Physics
-  Sound
-  Input
-  Resources
-  System
-  Graphics
-  Haptic
-HPL Exit was successful!
-
-|--Memory Manager Report-------------------------------|
-|
-| No memory leaks detected. Memory left: 0
-|
-|------------------------------------------------------|
-
-n torch_static01_1 does not exist anymore!
-WARNING: particle system 0 in torch_static01_2 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_1 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_2 does not exist anymore!
-WARNING: particle system 0 in torch_static01_5 does not exist anymore!
-WARNING: particle system 0 in torch_static01_6 does not exist anymore!
-WARNING: particle system 0 in torch_static01_10 does not exist anymore!
-WARNING: particle system 0 in torch_static01_11 does not exist anymore!
-WARNING: particle system 0 in torch_static01_12 does not exist anymore!
-WARNING: particle system 0 in torch_static01_13 does not exist anymore!
-WARNING: particle system 0 in torch_static01_14 does not exist anymore!
-WARNING: particle system 0 in torch_static01_15 does not exist anymore!
-WARNING: particle system 0 in candlestick02_2 does not exist anymore!
-WARNING: particle system 0 in candle_floor_29 does not exist anymore!
-WARNING: particle system 0 in candlestick02_3 does not exist anymore!
--------- END SAVE ---------
- -------- Loading map '09_back_hall.map' ---------
-    Cache Loading: 891 ms
-ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
-ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
-  Entities: 1357 ms
-  Compilation: 16 ms
-  Total: 2301 ms
-  Meshes created: 92
-  Bodies created: 25
- -------- Loading complete ---------
--------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_BackHall_2021_2_19_21_36_54_0.sav ---------
-WARNING: particle system 0 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 0 in candle_floor_2 does not exist anymore!
-WARNING: particle system 0 in candle_floor_3 does not exist anymore!
-WARNING: particle system 0 in candle_floor_4 does not exist anymore!
-WARNING: particle system 0 in candle_floor_6 does not exist anymore!
-WARNING: particle system 0 in candle_floor_7 does not exist anymore!
-WARNING: particle system 0 in candle_floor_8 does not exist anymore!
--------- END SAVE ---------
- -------- Loading map '12_storage.map' ---------
-    Cache Loading: 780 ms
-ERROR: Loading entity rope_beam02_1: Skeletons in mesh file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.dae) and .ent file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.ent) differ! Probably caused by .ent not being up to date with mesh
-ERROR: Loading entity rope_beam02_2: Skeletons in mesh file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.dae) and .ent file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.ent) differ! Probably caused by .ent not being up to date with mesh
-  Entities: 1830 ms
-  Compilation: 43 ms
-  Total: 2972 ms
-  Meshes created: 319
-  Bodies created: 115
- -------- Loading complete ---------
-ERROR: Couldn't create SoundEntity '12_event_blood.snt'
-WARNING: Couldn't preload sound entity '12_event_blood'
-ERROR: Couldn't create SoundEntity '12_noise_4.snt'
-WARNING: Couldn't preload sound entity '12_noise_4'
--------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_Storage_2021_2_19_21_38_43_0.sav ---------
-WARNING: particle system 0 in altar_lamp_1 does not exist anymore!
-WARNING: particle system 0 in candle_floor_7 does not exist anymore!
-WARNING: particle system 0 in candle_floor_8 does not exist anymore!
-WARNING: particle system 0 in candle_floor_10 does not exist anymore!
-WARNING: particle system 0 in candle_floor_11 does not exist anymore!
-WARNING: particle system 0 in candle_floor_12 does not exist anymore!
-WARNING: particle system 0 in candle_floor_13 does not exist anymore!
-WARNING: particle system 0 in candle_floor_15 does not exist anymore!
-WARNING: particle system 0 in candle_floor_16 does not exist anymore!
-WARNING: particle system 0 in candle_floor_17 does not exist anymore!
-WARNING: particle system 0 in candle_floor_18 does not exist anymore!
-WARNING: particle system 0 in candle_floor_20 does not exist anymore!
-WARNING: particle system 0 in candlestick02_1 does not exist anymore!
-WARNING: particle system 0 in torch_static01_1 does not exist anymore!
-WARNING: particle system 0 in torch_static01_2 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_1 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_2 does not exist anymore!
-WARNING: particle system 0 in torch_static01_5 does not exist anymore!
-WARNING: particle system 0 in torch_static01_6 does not exist anymore!
-WARNING: particle system 0 in torch_static01_10 does not exist anymore!
-WARNING: particle system 0 in torch_static01_11 does not exist anymore!
-WARNING: particle system 0 in torch_static01_12 does not exist anymore!
-WARNING: particle system 0 in torch_static01_13 does not exist anymore!
-WARNING: particle system 0 in torch_static01_14 does not exist anymore!
-WARNING: particle system 0 in torch_static01_15 does not exist anymore!
-WARNING: particle system 0 in candlestick02_2 does not exist anymore!
-WARNING: particle system 0 in candle_floor_29 does not exist anymore!
-WARNING: particle system 0 in candlestick02_3 does not exist anymore!
--------- END SAVE ---------
-WARNING: Entity 'explosive_container' with type 5 and subtype -1 does not exist!
-ERROR: Sampler aNormalMap does not exist, could not bind it to unit 1
-ERROR: Sampler aNormalMap does not exist, could not bind it to unit 1
-WARNING: A callback with entity 'AreaEnemy_1' already exists!
- -------- Loading map '09_back_hall.map' ---------
-    Cache Loading: 845 ms
-ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
-ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
-  Entities: 1322 ms
-  Compilation: 15 ms
-  Total: 2218 ms
-  Meshes created: 92
-  Bodies created: 25
- -------- Loading complete ---------
--------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_BackHall_2021_2_19_21_52_18_0.sav ---------
-WARNING: particle system 0 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 0 in candle_floor_2 does not exist anymore!
-WARNING: particle system 0 in candle_floor_3 does not exist anymore!
-WARNING: particle system 0 in candle_floor_4 does not exist anymore!
-WARNING: particle system 0 in candle_floor_6 does not exist anymore!
-WARNING: particle system 0 in candle_floor_7 does not exist anymore!
-WARNING: particle system 0 in candle_floor_8 does not exist anymore!
--------- END SAVE ---------
- -------- Loading map '10_daniels_room.map' ---------
-    Cache Loading: 734 ms
-  Entities: 2086 ms
-  Compilation: 14 ms
-  Total: 2867 ms
-  Meshes created: 45
-  Bodies created: 19
- -------- Loading complete ---------
--------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_DanielsRoom_2021_2_19_21_54_3_0.sav ---------
-WARNING: particle system 0 in bonfire_2 does not exist anymore!
-WARNING: particle system 0 in bonfire_3 does not exist anymore!
-WARNING: particle system 0 in candlestick02_1 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_1 does not exist anymore!
-WARNING: particle system 0 in candlestick_tri_3 does not exist anymore!
-WARNING: particle system 1 in candlestick_tri_3 does not exist anymore!
-WARNING: particle system 2 in candlestick_tri_3 does not exist anymore!
-WARNING: particle system 0 in candlestick_tri_4 does not exist anymore!
-WARNING: particle system 1 in candlestick_tri_4 does not exist anymore!
-WARNING: particle system 2 in candlestick_tri_4 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_6 does not exist anymore!
-WARNING: particle system 0 in candlestick_tri_5 does not exist anymore!
-WARNING: particle system 1 in candlestick_tri_5 does not exist anymore!
-WARNING: particle system 2 in candlestick_tri_5 does not exist anymore!
-WARNING: particle system 0 in candlestick_tri_6 does not exist anymore!
-WARNING: particle system 1 in candlestick_tri_6 does not exist anymore!
-WARNING: particle system 2 in candlestick_tri_6 does not exist anymore!
--------- END SAVE ---------
-ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
-ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
- -------- Loading map '09_back_hall.map' ---------
-    Cache Loading: 998 ms
-ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
-ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
-  Entities: 1361 ms
-  Compilation: 15 ms
-  Total: 2409 ms
-  Meshes created: 92
-  Bodies created: 25
- -------- Loading complete ---------
--------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_BackHall_2021_2_19_21_55_2_0.sav ---------
-WARNING: particle system 0 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 0 in candle_floor_2 does not exist anymore!
-WARNING: particle system 0 in candle_floor_3 does not exist anymore!
-WARNING: particle system 0 in candle_floor_4 does not exist anymore!
-WARNING: particle system 0 in candle_floor_6 does not exist anymore!
-WARNING: particle system 0 in candle_floor_7 does not exist anymore!
-WARNING: particle system 0 in candle_floor_8 does not exist anymore!
--------- END SAVE ---------
- -------- Loading map '11_study.map' ---------
-    Cache Loading: 1148 ms
-WARNING: Could not find child with unique ID 3 to attach to entity 'windowb_1_Body_1' in 'entities/obstacles/mansionbase_window/mb_window.ent'
-WARNING: Could not find child with unique ID 13 to attach to entity 'windowb_1_Body_1' in 'entities/obstacles/mansionbase_window/mb_window.ent'
-WARNING: Sub mesh 'painting_image02' does not exist in mesh 'painting_portrait.msh'!
-WARNING: Sub mesh 'painting_image02' does not exist in mesh 'painting_portrait.msh'!
-  Entities: 2713 ms
-  Compilation: 50 ms
-  Total: 3993 ms
-  Meshes created: 135
-  Bodies created: 56
- -------- Loading complete ---------
-ERROR: Couldn't create SoundEntity '11_event_tree.snt'
-WARNING: Couldn't preload sound entity '11_event_tree'
--------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_Study_2021_2_19_22_2_39_0.sav ---------
-WARNING: particle system 0 in candlestick02_1 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_3 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_4 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_8 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_9 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_10 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_11 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_19 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_21 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_22 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_23 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_24 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_25 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_26 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_27 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 0 in candlestick02_9 does not exist anymore!
-WARNING: particle system 0 in candlestick02_14 does not exist anymore!
-WARNING: particle system 0 in candlestick02_2 does not exist anymore!
--------- END SAVE ---------
-ERROR: Couldn't create SoundEntity 'step_walk_.snt'
-ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
-ERROR: Couldn't create SoundEntity 'step_walk_.snt'
-ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
-ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
-ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
-ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
-ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
-ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
-ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
-ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
- -------- Loading map '09_back_hall.map' ---------
-    Cache Loading: 988 ms
-  Entities: 1208 ms
-  Compilation: 15 ms
-  Total: 2247 ms
-  Meshes created: 92
-  Bodies created: 25
- -------- Loading complete ---------
--------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_BackHall_2021_2_19_22_7_25_0.sav ---------
-WARNING: particle system 0 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 0 in candle_floor_2 does not exist anymore!
-WARNING: particle system 0 in candle_floor_3 does not exist anymore!
-WARNING: particle system 0 in candle_floor_4 does not exist anymore!
-WARNING: particle system 0 in candle_floor_6 does not exist anymore!
-WARNING: particle system 0 in candle_floor_7 does not exist anymore!
-WARNING: particle system 0 in candle_floor_8 does not exist anymore!
--------- END SAVE ---------
- -------- Loading map '12_storage.map' ---------
-    Cache Loading: 753 ms
-ERROR: Loading entity rope_beam02_1: Skeletons in mesh file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.dae) and .ent file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.ent) differ! Probably caused by .ent not being up to date with mesh
-ERROR: Loading entity rope_beam02_2: Skeletons in mesh file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.dae) and .ent file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.ent) differ! Probably caused by .ent not being up to date with mesh
-  Entities: 1766 ms
-  Compilation: 43 ms
-  Total: 2873 ms
-  Meshes created: 319
-  Bodies created: 115
- -------- Loading complete ---------
-ERROR: Couldn't create SoundEntity '12_event_blood.snt'
-WARNING: Couldn't preload sound entity '12_event_blood'
-ERROR: Couldn't create SoundEntity '12_noise_4.snt'
-WARNING: Couldn't preload sound entity '12_noise_4'
--------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_Storage_2021_2_19_22_7_51_0.sav ---------
-WARNING: particle system 0 in candle_floor_7 does not exist anymore!
-WARNING: particle system 0 in candle_floor_8 does not exist anymore!
-WARNING: particle system 0 in candle_floor_11 does not exist anymore!
-WARNING: particle system 0 in candle_floor_12 does not exist anymore!
-WARNING: particle system 0 in candle_floor_13 does not exist anymore!
-WARNING: particle system 0 in candle_floor_15 does not exist anymore!
-WARNING: particle system 0 in candle_floor_16 does not exist anymore!
-WARNING: particle system 0 in candle_floor_17 does not exist anymore!
-WARNING: particle system 0 in candle_floor_20 does not exist anymore!
-WARNING: particle system 0 in torch_static01_1 does not exist anymore!
-WARNING: particle system 0 in torch_static01_2 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_1 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_2 does not exist anymore!
-WARNING: particle system 0 in torch_static01_5 does not exist anymore!
-WARNING: particle system 0 in torch_static01_6 does not exist anymore!
-WARNING: particle system 0 in torch_static01_12 does not exist anymore!
-WARNING: particle system 0 in torch_static01_14 does not exist anymore!
-WARNING: particle system 0 in candlestick02_2 does not exist anymore!
-WARNING: particle system 0 in candle_floor_29 does not exist anymore!
-WARNING: particle system 0 in candlestick02_3 does not exist anymore!
--------- END SAVE ---------
-ERROR: Could not find sound entity 'noise_AreaNoise_2'
- -------- Loading map '09_back_hall.map' ---------
-    Cache Loading: 851 ms
-ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
-ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
-  Entities: 1267 ms
-  Compilation: 16 ms
-  Total: 2168 ms
-  Meshes created: 92
-  Bodies created: 25
- -------- Loading complete ---------
--------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_BackHall_2021_2_19_22_17_18_0.sav ---------
-WARNING: particle system 0 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 0 in candle_floor_2 does not exist anymore!
-WARNING: particle system 0 in candle_floor_3 does not exist anymore!
-WARNING: particle system 0 in candle_floor_4 does not exist anymore!
-WARNING: particle system 0 in candle_floor_6 does not exist anymore!
-WARNING: particle system 0 in candle_floor_7 does not exist anymore!
-WARNING: particle system 0 in candle_floor_8 does not exist anymore!
--------- END SAVE ---------
- -------- Loading map '10_daniels_room.map' ---------
-    Cache Loading: 727 ms
-  Entities: 2053 ms
-  Compilation: 18 ms
-  Total: 2829 ms
-  Meshes created: 45
-  Bodies created: 19
- -------- Loading complete ---------
--------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_DanielsRoom_2021_2_19_22_20_0_0.sav ---------
-WARNING: particle system 0 in bonfire_2 does not exist anymore!
-WARNING: particle system 0 in bonfire_3 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_1 does not exist anymore!
-WARNING: particle system 0 in candlestick_tri_3 does not exist anymore!
-WARNING: particle system 1 in candlestick_tri_3 does not exist anymore!
-WARNING: particle system 2 in candlestick_tri_3 does not exist anymore!
-WARNING: particle system 0 in candlestick_tri_4 does not exist anymore!
-WARNING: particle system 1 in candlestick_tri_4 does not exist anymore!
-WARNING: particle system 2 in candlestick_tri_4 does not exist anymore!
-WARNING: particle system 0 in candlestick_wall_6 does not exist anymore!
-WARNING: particle system 0 in candlestick_tri_5 does not exist anymore!
-WARNING: particle system 1 in candlestick_tri_5 does not exist anymore!
-WARNING: particle system 2 in candlestick_tri_5 does not exist anymore!
-WARNING: particle system 0 in candlestick_tri_6 does not exist anymore!
-WARNING: particle system 1 in candlestick_tri_6 does not exist anymore!
-WARNING: particle system 2 in candlestick_tri_6 does not exist anymore!
--------- END SAVE ---------
-ERROR: Couldn't create SoundEntity 'step_sneak_generic_hard.snt'
-ERROR: Couldn't create SoundEntity 'step_sneak_generic_hard.snt'
-ERROR: Couldn't create SoundEntity 'step_sneak_generic_hard.snt'
-ERROR: Couldn't create SoundEntity 'step_walk_generic_hard.snt'
- -------- Loading map '09_back_hall.map' ---------
-    Cache Loading: 971 ms
-ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
-ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
-  Entities: 1327 ms
-  Compilation: 15 ms
-  Total: 2349 ms
-  Meshes created: 92
-  Bodies created: 25
- -------- Loading complete ---------
--------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_BackHall_2021_2_19_22_21_53_0.sav ---------
-WARNING: particle system 0 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 0 in candle_floor_2 does not exist anymore!
-WARNING: particle system 0 in candle_floor_3 does not exist anymore!
-WARNING: particle system 0 in candle_floor_4 does not exist anymore!
-WARNING: particle system 0 in candle_floor_6 does not exist anymore!
-WARNING: particle system 0 in candle_floor_7 does not exist anymore!
-WARNING: particle system 0 in candle_floor_8 does not exist anymore!
--------- END SAVE ---------
- -------- Loading map '13_machine_room.map' ---------
-    Cache Loading: 562 ms
-  Entities: 1726 ms
-  Compilation: 11 ms
-  Total: 2564 ms
-  Meshes created: 149
-  Bodies created: 35
- -------- Loading complete ---------
--------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_MachineRoom_2021_2_19_22_22_25_0.sav ---------
-WARNING: particle system 0 in hanging_lantern_wall_3 does not exist anymore!
-WARNING: particle system 0 in hanging_lantern_ceiling_7 does not exist anymore!
-WARNING: particle system 0 in hanging_lantern_ceiling_8 does not exist anymore!
-WARNING: particle system 0 in hanging_lantern_ceiling_12 does not exist anymore!
-WARNING: particle system 0 in hanging_lantern_ceiling_15 does not exist anymore!
-WARNING: particle system 0 in 13_burner does not exist anymore!
-WARNING: particle system 1 in 13_burner does not exist anymore!
-WARNING: particle system 0 in hanging_lantern_ceiling_17 does not exist anymore!
-WARNING: particle system 0 in hanging_lantern_ceiling_13 does not exist anymore!
-WARNING: particle system 0 in hanging_lantern_ceiling_14 does not exist anymore!
--------- END SAVE ---------
-ERROR: Couldn't create SoundEntity 'step_run_generic_hard.snt'
-WARNING: Entity '' with type 0 and subtype -1 does not exist!
-WARNING: Entity 'slime_pile_large_4' with type 0 and subtype -1 does not exist!
- -------- Loading map '09_back_hall.map' ---------
-    Cache Loading: 959 ms
-  Entities: 1338 ms
-  Compilation: 16 ms
-  Total: 2348 ms
-  Meshes created: 92
-  Bodies created: 25
- -------- Loading complete ---------
--------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_BackHall_2021_2_19_22_43_22_0.sav ---------
-WARNING: particle system 0 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_1 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_2 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_7 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_8 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_10 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_11 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_9 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_12 does not exist anymore!
-WARNING: particle system 0 in candle_floor_2 does not exist anymore!
-WARNING: particle system 0 in candle_floor_3 does not exist anymore!
-WARNING: particle system 0 in candle_floor_4 does not exist anymore!
-WARNING: particle system 0 in candle_floor_6 does not exist anymore!
-WARNING: particle system 0 in candle_floor_7 does not exist anymore!
-WARNING: particle system 0 in candle_floor_8 does not exist anymore!
--------- END SAVE ---------
- -------- Loading map '14_elevator.map' ---------
-    Cache Loading: 23 ms
-WARNING: Sub mesh 'polySurface285' does not exist in mesh 'elevator_wall01.msh'!
-  Entities: 796 ms
-  Compilation: 0 ms
-  Total: 836 ms
-  Meshes created: 2
-  Bodies created: 2
- -------- Loading complete ---------
+ Saving main config.
+ Saving user config.
+-------- BEGIN LOAD FROM C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_PrisonSouth_2021_2_19_22_46_50_0.sav ---------
+LOADING SAVE GAME!
  -------- Loading map '15_prison_south.map' ---------
 ERROR: Sampler aNormalMap does not exist, could not bind it to unit 1
 ERROR: Sampler aNormalMap does not exist, could not bind it to unit 1
 ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
 ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
-    Cache Loading: 838 ms
-ERROR: Loading entity rope_beam02_1: Skeletons in mesh file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.dae) and .ent file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.ent) differ! Probably caused by .ent not being up to date with mesh
-ERROR: Loading entity corpse_male_1: Skeletons in mesh file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/organic/corpse_male/corpse_male.dae) and .ent file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/organic/corpse_male/corpse_male.ent) differ! Probably caused by .ent not being up to date with mesh
-  Entities: 3515 ms
-  Compilation: 20 ms
-  Total: 4602 ms
+    Cache Loading: 3004 ms
+  Entities: 2913 ms
+  Compilation: 21 ms
+  Total: 6141 ms
   Meshes created: 201
   Bodies created: 66
  -------- Loading complete ---------
-WARNING: Entity 'AreaFlick_0' does not exist!
-WARNING: Entity 'AreaHammer_0' does not exist!
--------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_PrisonSouth_2021_2_19_22_44_41_0.sav ---------
-WARNING: particle system 0 in torch_static0b4_12 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 0 in torch_static01_3 does not exist anymore!
-WARNING: particle system 0 in torch_static01_5 does not exist anymore!
+WARNING: Could not find player start node ''
+ERROR: StartPos '' does not exist!
+ERROR: Loading entity rope_beam02_1: Skeletons in mesh file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.dae) and .ent file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.ent) differ! Probably caused by .ent not being up to date with mesh
+ERROR: Loading entity corpse_male_1: Skeletons in mesh file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/organic/corpse_male/corpse_male.dae) and .ent file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/organic/corpse_male/corpse_male.ent) differ! Probably caused by .ent not being up to date with mesh
+-------- END LOAD ---------
+ERROR: Sampler aGoboMap does not exist, could not bind it to unit 5
+ERROR: Sampler aGoboMap does not exist, could not bind it to unit 5
+ERROR: Sampler aGoboMap does not exist, could not bind it to unit 5
+ Saving main config.
+ Saving user config.
+ Saving main config.
+ Saving user config.
+ Saving main config.
+ Saving user config.
+ Saving main config.
+ Saving user config.
+ERROR: Couldn't create SoundEntity 'step_walk_.snt'
+ -------- Loading map '15_prison_north.map' ---------
+    Cache Loading: 796 ms
+ERROR: Loading entity object_1: Skeletons in mesh file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/organic/pig_corpse/pig_corpse.dae) and .ent file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/organic/pig_corpse/pig_corpse.ent) differ! Probably caused by .ent not being up to date with mesh
+ERROR: Loading entity rope_beam02_1: Skeletons in mesh file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.dae) and .ent file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.ent) differ! Probably caused by .ent not being up to date with mesh
+ERROR: Loading entity rope_beam02_2: Skeletons in mesh file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.dae) and .ent file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/equipment/rope_beam/rope_beam02.ent) differ! Probably caused by .ent not being up to date with mesh
+ERROR: Loading entity corpse_male_1: Skeletons in mesh file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/organic/corpse_male/corpse_male.dae) and .ent file (C:/Games/XCOM 2/Amnesia - The Dark Descent/entities/organic/corpse_male/corpse_male.ent) differ! Probably caused by .ent not being up to date with mesh
+  Entities: 8016 ms
+  Compilation: 30 ms
+  Total: 9208 ms
+  Meshes created: 258
+  Bodies created: 95
+ -------- Loading complete ---------
+WARNING: Entity 'object_19' with type 5 and subtype -1 does not exist!
+-------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_PrisonNorth_2021_2_22_0_14_7_0.sav ---------
+WARNING: particle system 0 in candlestick02_1 does not exist anymore!
 WARNING: particle system 0 in torch_static01_6 does not exist anymore!
 WARNING: particle system 0 in torch_static01_7 does not exist anymore!
 WARNING: particle system 0 in torch_static01_8 does not exist anymore!
-WARNING: particle system 0 in torch_static01_9 does not exist anymore!
 WARNING: particle system 0 in torch_static01_10 does not exist anymore!
-WARNING: particle system 0 in torch_static0b4_11 does not exist anymore!
-WARNING: particle system 0 in torch_static0b3_12 does not exist anymore!
-WARNING: particle system 0 in torch_static0b2_13 does not exist anymore!
-WARNING: particle system 0 in torch_static0b1_14 does not exist anymore!
-WARNING: particle system 0 in torch_static0b2_15 does not exist anymore!
-WARNING: particle system 0 in torch_static0b2_16 does not exist anymore!
-WARNING: particle system 0 in torch_static0b3_17 does not exist anymore!
-WARNING: particle system 0 in torch_static0b4_18 does not exist anymore!
+WARNING: particle system 0 in torch_static01_11 does not exist anymore!
+WARNING: particle system 0 in torch_static01_12 does not exist anymore!
+WARNING: particle system 0 in torch_static01_13 does not exist anymore!
+WARNING: particle system 0 in torch_static01_14 does not exist anymore!
+WARNING: particle system 0 in torch_static01_15 does not exist anymore!
+WARNING: particle system 0 in torch_static01_16 does not exist anymore!
+WARNING: particle system 0 in torch_static01_18 does not exist anymore!
+WARNING: particle system 0 in torch_static01_19 does not exist anymore!
+WARNING: particle system 0 in torch_static01_20 does not exist anymore!
+WARNING: particle system 0 in torch_static01_21 does not exist anymore!
+WARNING: particle system 0 in torch_static01_22 does not exist anymore!
+WARNING: particle system 0 in torch_static01_23 does not exist anymore!
+WARNING: particle system 0 in torch_static01_24 does not exist anymore!
+WARNING: particle system 0 in torch_static01_25 does not exist anymore!
+WARNING: particle system 0 in torch_cp_1 does not exist anymore!
+WARNING: particle system 0 in torch_cp_2 does not exist anymore!
+WARNING: particle system 0 in torch_cp_3 does not exist anymore!
+WARNING: particle system 0 in torch_cp_4 does not exist anymore!
 -------- END SAVE ---------
--------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_PrisonSouth_2021_2_19_22_46_50_0.sav ---------
-WARNING: particle system 0 in torch_static0b4_12 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_3 does not exist anymore!
-WARNING: particle system 0 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 1 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 2 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 3 in candlestick_floor_4 does not exist anymore!
-WARNING: particle system 4 in candlestick_floor_4 does not exist anymore!
+ERROR: Couldn't create SoundEntity 'react_breathl.snt'
+ -------- Loading map '16_cistern_entrance.map' ---------
+    Cache Loading: 1403 ms
+  Entities: 2628 ms
+  Compilation: 11 ms
+  Total: 4329 ms
+  Meshes created: 158
+  Bodies created: 26
+ -------- Loading complete ---------
+-------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_CisternEntrance_2021_2_22_0_38_18_0.sav ---------
+-------- END SAVE ---------
+ERROR: Sampler aNormalMap does not exist, could not bind it to unit 1
+ERROR: Sampler aNormalMap does not exist, could not bind it to unit 1
+ERROR: Could not find sound entity 'moveladder'
+ERROR: Could not find sound entity 'sound_bridge_metal_vert_2'
+ -------- Loading map '18_cistern.map' ---------
+    Cache Loading: 2834 ms
+ERROR: Sampler aNormalMap does not exist, could not bind it to unit 1
+ERROR: Sampler aNormalMap does not exist, could not bind it to unit 1
+  Entities: 2133 ms
+  Compilation: 29 ms
+  Total: 5362 ms
+  Meshes created: 346
+  Bodies created: 97
+ -------- Loading complete ---------
+-------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_Cistern_2021_2_22_0_45_21_0.sav ---------
+-------- END SAVE ---------
+WARNING: Entity 'AreaLurkerSound_3' does not exist!
+WARNING: Entity 'AreaLurkerSound_3' does not exist!
+WARNING: Entity 'AreaLurkerSound_3' does not exist!
+ -------- Loading map '16_cistern_entrance.map' ---------
+    Cache Loading: 580 ms
+  Entities: 750 ms
+  Compilation: 12 ms
+  Total: 1544 ms
+  Meshes created: 158
+  Bodies created: 26
+ -------- Loading complete ---------
+-------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_CisternEntrance_2021_2_22_0_53_25_0.sav ---------
+-------- END SAVE ---------
+ -------- Loading map '17_control_room.map' ---------
+    Cache Loading: 1480 ms
+ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
+ERROR: Sampler aDiffuseMap does not exist, could not bind it to unit 0
+WARNING: Could not find child with unique ID 1 to attach to entity 'safety_normal_vert_valve_1_Body_1' in 'entities/door/safety_normal_vert/safety_normal_vert_valve.ent'
+  Entities: 3985 ms
+  Compilation: 39 ms
+  Total: 5781 ms
+  Meshes created: 208
+  Bodies created: 65
+ -------- Loading complete ---------
+-------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_ControlRoom_2021_2_22_0_54_45_0.sav ---------
+WARNING: particle system 0 in torch_static01_1 does not exist anymore!
+WARNING: particle system 0 in torch_static01_2 does not exist anymore!
 WARNING: particle system 0 in torch_static01_3 does not exist anymore!
+WARNING: particle system 0 in torch_static01_4 does not exist anymore!
 WARNING: particle system 0 in torch_static01_5 does not exist anymore!
 WARNING: particle system 0 in torch_static01_6 does not exist anymore!
-WARNING: particle system 0 in torch_static01_7 does not exist anymore!
-WARNING: particle system 0 in torch_static01_8 does not exist anymore!
-WARNING: particle system 0 in torch_static01_9 does not exist anymore!
-WARNING: particle system 0 in torch_static01_10 does not exist anymore!
-WARNING: particle system 0 in torch_static0b4_11 does not exist anymore!
-WARNING: particle system 0 in torch_static0b3_12 does not exist anymore!
-WARNING: particle system 0 in torch_static0b2_13 does not exist anymore!
-WARNING: particle system 0 in torch_static0b1_14 does not exist anymore!
-WARNING: particle system 0 in torch_static0b2_15 does not exist anymore!
-WARNING: particle system 0 in torch_static0b2_16 does not exist anymore!
-WARNING: particle system 0 in torch_static0b3_17 does not exist anymore!
-WARNING: particle system 0 in torch_static0b4_18 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_wall_1 does not exist anymore!
+WARNING: particle system 0 in candle_floor_2 does not exist anymore!
+WARNING: particle system 0 in candle_floor_3 does not exist anymore!
+WARNING: particle system 0 in candle_floor_5 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_wall_3 does not exist anymore!
+WARNING: particle system 0 in candle_floor_8 does not exist anymore!
+-------- END SAVE ---------
+-------- BEGIN SAVE TO: C:\Users\pepega_Based\Documents/Amnesia/Main/_____/AutoSave_ControlRoom_2021_2_22_1_4_30_0.sav ---------
+WARNING: particle system 0 in torch_static01_1 does not exist anymore!
+WARNING: particle system 0 in torch_static01_2 does not exist anymore!
+WARNING: particle system 0 in torch_static01_3 does not exist anymore!
+WARNING: particle system 0 in torch_static01_4 does not exist anymore!
+WARNING: particle system 0 in torch_static01_5 does not exist anymore!
+WARNING: particle system 0 in torch_static01_6 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_wall_1 does not exist anymore!
+WARNING: particle system 0 in candle_floor_2 does not exist anymore!
+WARNING: particle system 0 in candle_floor_3 does not exist anymore!
+WARNING: particle system 0 in candle_floor_5 does not exist anymore!
+WARNING: particle system 0 in hanging_lantern_wall_3 does not exist anymore!
+WARNING: particle system 0 in candle_floor_8 does not exist anymore!
 -------- END SAVE ---------
  -------- Loading map 'menu_bg.map' ---------
-    Cache Loading: 601 ms
-  Entities: 97 ms
-  Compilation: 0 ms
-  Total: 706 ms
+    Cache Loading: 747 ms
+  Entities: 129 ms
+  Compilation: 1 ms
+  Total: 885 ms
   Meshes created: 26
   Bodies created: 5
  -------- Loading complete ---------
@@ -1008,7 +259,7 @@ WARNING: particle system 0 in torch_static0b4_18 does not exist anymore!
 
 Statistics
 --------------------------------------------------------
- Medium framerate: 50.383720
+ Medium framerate: 49.409353
 --------------------------------------------------------
 
 User Exit
